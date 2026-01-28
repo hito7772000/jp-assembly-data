@@ -1,0 +1,161 @@
+{
+  "batch_id": "2024-batch-03",
+  "bills": [
+    {
+      "bill_id": "2024-031",
+      "title": "東町土地区画整理事業に関する業務委託契約の締結",
+      "category": "contract",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2024-regular-01",
+      "source_url": "https://www.city.hino.tokyo.dbsr.jp/?Template=mokuji.2024-r06-01t-mok"
+    },
+    {
+      "bill_id": "2024-032",
+      "title": "西平山土地区画整理事業に関する業務委託契約の締結",
+      "category": "contract",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2024-regular-01",
+      "source_url": "https://www.city.hino.tokyo.dbsr.jp/?Template=mokuji.2024-r06-01t-mok"
+    },
+    {
+      "bill_id": "2024-033",
+      "title": "後期高齢者医療広域連合規約の変更",
+      "category": "regulation",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2024-regular-01",
+      "source_url": "https://www.city.hino.tokyo.dbsr.jp/?Template=mokuji.2024-r06-01t-mok"
+    },
+    {
+      "bill_id": "2024-034",
+      "title": "損害賠償額の決定",
+      "category": "administrative_decision",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2024-regular-01",
+      "source_url": "https://www.city.hino.tokyo.dbsr.jp/?Template=mokuji.2024-r06-01t-mok"
+    },
+    {
+      "bill_id": "2024-035",
+      "title": "農業委員会委員の任命",
+      "category": "appointment",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2024-regular-01",
+      "source_url": "https://www.city.hino.tokyo.dbsr.jp/?Template=mokuji.2024-r06-01t-mok"
+    },
+    {
+      "bill_id": "2024-036",
+      "title": "手数料条例の一部改正",
+      "category": "ordinance_amendment",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2024-regular-01",
+      "source_url": "https://www.city.hino.tokyo.dbsr.jp/?Template=mokuji.2024-r06-01t-mok"
+    },
+    {
+      "bill_id": "2024-037",
+      "title": "損害賠償額の決定（追加）",
+      "category": "administrative_decision",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2024-regular-01",
+      "source_url": "https://www.city.hino.tokyo.dbsr.jp/?Template=mokuji.2024-r06-01t-mok"
+    },
+    {
+      "bill_id": "2024-038",
+      "title": "令和5年度一般会計補正予算（第12号）",
+      "category": "budget",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2024-regular-01",
+      "source_url": "https://www.city.hino.tokyo.dbsr.jp/?Template=mokuji.2024-r06-01t-mok"
+    },
+
+    {
+      "bill_id": "2024-039",
+      "title": "市税条例の一部改正",
+      "category": "ordinance_amendment",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2024-regular-01",
+      "source_url": "https://www.city.hino.tokyo.dbsr.jp/?Template=mokuji.2024-r06-01t-mok"
+    },
+    {
+      "bill_id": "2024-040",
+      "title": "令和6年度一般会計補正予算（第1号）",
+      "category": "budget",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2024-regular-01",
+      "source_url": "https://www.city.hino.tokyo.dbsr.jp/?Template=mokuji.2024-r06-01t-mok"
+    },
+    {
+      "bill_id": "2024-041",
+      "title": "監査委員の選任",
+      "category": "appointment",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2024-regular-01",
+      "source_url": "https://www.city.hino.tokyo.dbsr.jp/?Template=mokuji.2024-r06-01t-mok"
+    },
+    {
+      "bill_id": "2024-042",
+      "title": "子どもオンブズパーソンの委嘱（1）",
+      "category": "appointment",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2024-regular-01",
+      "source_url": "https://www.city.hino.tokyo.dbsr.jp/?Template=mokuji.2024-r06-01t-mok"
+    },
+    {
+      "bill_id": "2024-043",
+      "title": "子どもオンブズパーソンの委嘱（2）",
+      "category": "appointment",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2024-regular-01",
+      "source_url": "https://www.city.hino.tokyo.dbsr.jp/?Template=mokuji.2024-r06-01t-mok"
+    },
+
+    {
+      "bill_id": "2024-proposal-001",
+      "title": "政治資金パーティー裏金問題に関する意見書（議員提出議案）",
+      "category": "member_proposal",
+      "proposer": "assembly_members",
+      "status": null,
+      "related_session_id": "2024-regular-01",
+      "source_url": "https://www.city.hino.tokyo.dbsr.jp/?Template=mokuji.2024-r06-01t-mok"
+    },
+
+    {
+      "bill_id": "2024-petition-6-1",
+      "title": "マイナンバーカードと保険証の紐付け反対に関する請願",
+      "category": "petition",
+      "proposer": "citizens",
+      "status": null,
+      "related_session_id": "2024-regular-01",
+      "source_url": "https://www.city.hino.tokyo.dbsr.jp/?Template=mokuji.2024-r06-01t-mok"
+    },
+    {
+      "bill_id": "2024-petition-6-2",
+      "title": "政治資金パーティー裏金問題の解明と企業団体献金禁止を求める請願",
+      "category": "petition",
+      "proposer": "citizens",
+      "status": null,
+      "related_session_id": "2024-regular-01",
+      "source_url": "https://www.city.hino.tokyo.dbsr.jp/?Template=mokuji.2024-r06-01t-mok"
+    },
+    {
+      "bill_id": "2024-petition-6-3",
+      "title": "学校給食無償化を求める請願",
+      "category": "petition",
+      "proposer": "citizens",
+      "status": null,
+      "related_session_id": "2024-regular-01",
+      "source_url": "https://www.city.hino.tokyo.dbsr.jp/?Template=mokuji.2024-r06-01t-mok"
+    }
+  ]
+}

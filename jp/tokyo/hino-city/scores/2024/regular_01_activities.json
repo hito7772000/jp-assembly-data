@@ -1,0 +1,84 @@
+{
+  "session_id": "2024-regular-01",
+  "session_metadata": {
+    "start_date": "2024-02-20",
+    "end_date": "2024-03-22"
+  },
+  "general_questions": [
+    {
+      "question_id": "gq_001",
+      "member_id": "hino_001",
+      "question_date": "2024-02-21"
+    },
+    {
+      "question_id": "gq_002",
+      "member_id": "hino_007",
+      "question_date": "2024-02-22"
+    },
+    {
+      "question_id": "gq_003",
+      "member_id": "hino_011",
+      "question_date": "2024-02-22"
+    },
+    {
+      "question_id": "gq_004",
+      "member_id": "hino_003",
+      "question_date": "2024-02-23"
+    },
+    {
+      "question_id": "gq_005",
+      "member_id": "hino_015",
+      "question_date": "2024-02-23"
+    },
+    {
+      "question_id": "gq_006",
+      "member_id": "hino_019",
+      "question_date": "2024-02-27"
+    },
+    {
+      "question_id": "gq_007",
+      "member_id": "hino_002",
+      "question_date": "2024-02-27"
+    },
+    {
+      "question_id": "gq_008",
+      "member_id": "hino_009",
+      "question_date": "2024-02-28"
+    },
+    {
+      "question_id": "gq_009",
+      "member_id": "hino_013",
+      "question_date": "2024-02-28"
+    },
+    {
+      "question_id": "gq_010",
+      "member_id": "hino_020",
+      "question_date": "2024-03-04"
+    },
+    {
+      "question_id": "gq_011",
+      "member_id": "hino_006",
+      "question_date": "2024-03-04"
+    },
+    {
+      "question_id": "gq_012",
+      "member_id": "hino_010",
+      "question_date": "2024-03-05"
+    },
+    {
+      "question_id": "gq_013",
+      "member_id": "hino_004",
+      "question_date": "2024-03-05"
+    },
+    {
+      "question_id": "gq_014",
+      "member_id": "hino_018",
+      "question_date": "2024-03-06"
+    },
+    {
+      "question_id": "gq_015",
+      "member_id": "hino_022",
+      "question_date": "2024-03-06"
+    }
+  ]
+}

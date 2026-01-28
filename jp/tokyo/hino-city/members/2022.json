@@ -1,0 +1,206 @@
+{
+  "term": {
+    "start": "2022-03-08",
+    "end": "2026-03-08"
+  },
+  "members": [
+    {
+      "id": "hino_001",
+      "name": "わたなべ三枝",
+      "party_id": "party_jcp",
+      "profile_url": null,
+      "party_history": [
+        { "party_id": "party_jcp", "from": "2022-03-08" }
+      ]
+    },
+    {
+      "id": "hino_002",
+      "name": "岡田じゅん子",
+      "party_id": "party_jcp",
+      "profile_url": null,
+      "party_history": [
+        { "party_id": "party_jcp", "from": "2022-03-08" }
+      ]
+    },
+    {
+      "id": "hino_003",
+      "name": "吉澤あかね",
+      "party_id": "party_independent",
+      "profile_url": null,
+      "party_history": [
+        { "party_id": "party_independent", "from": "2022-03-08" }
+      ]
+    },
+    {
+      "id": "hino_004",
+      "name": "佐藤琢磨",
+      "party_id": "party_independent",
+      "profile_url": null,
+      "party_history": [
+        { "party_id": "party_independent", "from": "2022-03-08" }
+      ]
+    },
+    {
+      "id": "hino_005",
+      "name": "新井ともはる",
+      "party_id": "party_independent",
+      "profile_url": null,
+      "party_history": [
+        { "party_id": "party_independent", "from": "2022-03-08" }
+      ]
+    },
+    {
+      "id": "hino_006",
+      "name": "伊東秀章",
+      "party_id": "party_independent",
+      "profile_url": "https://itohideaki.tokyo/",
+      "party_history": [
+        { "party_id": "party_independent", "from": "2022-03-08" }
+      ]
+    },
+    {
+      "id": "hino_007",
+      "name": "須崎貴寛",
+      "party_id": "party_ldp",
+      "profile_url": null,
+      "party_history": [
+        { "party_id": "party_ldp", "from": "2022-03-08" }
+      ]
+    },
+    {
+      "id": "hino_008",
+      "name": "伊藤あゆみ",
+      "party_id": "party_ldp",
+      "profile_url": null,
+      "party_history": [
+        { "party_id": "party_ldp", "from": "2022-03-08" }
+      ]
+    },
+    {
+      "id": "hino_009",
+      "name": "ちかざわ美樹",
+      "party_id": "party_jcp",
+      "profile_url": "https://www.facebook.com/miki.chikazawa.7",
+      "party_history": [
+        { "party_id": "party_jcp", "from": "2022-03-08" }
+      ]
+    },
+    {
+      "id": "hino_010",
+      "name": "白井なおこ",
+      "party_id": "party_network",
+      "profile_url": "https://shirai.seikatsusha.me/",
+      "party_history": [
+        { "party_id": "party_network", "from": "2022-03-08" }
+      ]
+    },
+    {
+      "id": "hino_011",
+      "name": "森沢美和子",
+      "party_id": "party_mirai",
+      "profile_url": "https://www.morisawa-miwako.com/",
+      "party_history": [
+        { "party_id": "party_mirai", "from": "2022-03-08" }
+      ]
+    },
+    {
+      "id": "hino_012",
+      "name": "島谷広則",
+      "party_id": "party_mirai",
+      "profile_url": "https://www.shimaya-hironori.com/",
+      "party_history": [
+        { "party_id": "party_mirai", "from": "2022-03-08" }
+      ]
+    },
+    {
+      "id": "hino_013",
+      "name": "中嶋良樹",
+      "party_id": "party_mirai",
+      "profile_url": "https://yoshiki-nakajima.com/",
+      "party_history": [
+        { "party_id": "party_mirai", "from": "2022-03-08" }
+      ]
+    },
+    {
+      "id": "hino_014",
+      "name": "鈴木洋子",
+      "party_id": "party_ldp",
+      "profile_url": null,
+      "party_history": [
+        { "party_id": "party_ldp", "from": "2022-03-08" }
+      ]
+    },
+    {
+      "id": "hino_015",
+      "name": "中野あきと",
+      "party_id": "party_jcp",
+      "profile_url": null,
+      "party_history": [
+        { "party_id": "party_jcp", "from": "2022-03-08" }
+      ]
+    },
+    {
+      "id": "hino_016",
+      "name": "奥野りん子",
+      "party_id": "party_independent",
+      "profile_url": "https://okuno-rinko.com/",
+      "party_history": [
+        { "party_id": "party_independent", "from": "2022-03-08" }
+      ]
+    },
+    {
+      "id": "hino_017",
+      "name": "峯岸弘行",
+      "party_id": "party_komei",
+      "profile_url": "https://www.komei.or.jp/km/hino-minegishi-hiroyuki/?doing_wp_cron=1769565474.3915541172027587890625",
+      "party_history": [
+        { "party_id": "party_komei", "from": "2022-03-08" }
+      ]
+    },
+    {
+      "id": "hino_018",
+      "name": "窪田知子",
+      "party_id": "party_komei",
+      "profile_url": "https://www.komei.or.jp/km/hino-kubota-tomoko/",
+      "party_history": [
+        { "party_id": "party_komei", "from": "2022-03-08" }
+      ]
+    },
+    {
+      "id": "hino_019",
+      "name": "馬場賢司",
+      "party_id": "party_komei",
+      "profile_url": "https://www.komei.or.jp/km/hino-baba-kenji/",
+      "party_history": [
+        { "party_id": "party_komei", "from": "2022-03-08" }
+      ]
+    },
+    {
+      "id": "hino_020",
+      "name": "田原茂",
+      "party_id": "party_komei",
+      "profile_url": "https://www.komei.or.jp/km/hino-tahara/",
+      "party_history": [
+        { "party_id": "party_komei", "from": "2022-03-08" }
+      ]
+    },
+    {
+      "id": "hino_021",
+      "name": "谷和彦",
+      "party_id": "party_independent",
+      "profile_url": null,
+      "party_history": [
+        { "party_id": "party_independent", "from": "2022-03-08" }
+      ]
+    },
+    {
+      "id": "hino_022",
+      "name": "奥住匡人",
+      "party_id": "party_ldp",
+      "profile_url": "https://www.okuzumimasahito.com/",
+      "party_history": [
+        { "party_id": "party_ldp", "from": "2022-03-08" }
+      ]
+    }
+  ]
+}

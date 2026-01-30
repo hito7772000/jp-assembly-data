@@ -1,0 +1,319 @@
+{
+  "session_id": "2025-regular-02",
+  "source_url": "https://www.city.hino.lg.jp/shigikai/gian/1029186.html",
+  "votes": [
+    {
+      "bill_id": "regular-041",
+      "title": "日野市市税条例の一部を改正する条例制定の専決処分の報告承認について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": null,
+      "result": "承認",
+      "decided_date": "令和7年6月2日"
+    },
+    {
+      "bill_id": "regular-042",
+      "title": "日野市国民健康保険条例の一部を改正する条例制定の専決処分の報告承認について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": null,
+      "result": "承認",
+      "decided_date": "令和7年6月2日"
+    },
+    {
+      "bill_id": "regular-043",
+      "title": "日野市監査委員に関する条例等の一部を改正する条例の制定について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": null,
+      "result": "原案可決",
+      "decided_date": "令和7年6月18日"
+    },
+    {
+      "bill_id": "regular-044",
+      "title": "日野市行政手続における特定の個人を識別するための番号の利用等に関する条例の一部を改正する条例の制定について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [
+          "party_jcp"
+        ],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_independent": {
+          "yes": 6,
+          "no": 1
+        }
+      },
+      "result": "原案可決",
+      "decided_date": "令和7年6月18日"
+    },
+    {
+      "bill_id": "regular-045",
+      "title": "日野市市民農園条例の制定について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": null,
+      "result": "原案可決",
+      "decided_date": "令和7年6月18日"
+    },
+    {
+      "bill_id": "regular-046",
+      "title": "日野市特定教育・保育施設、特定地域型保育事業等の利用者負担に関する条例の一部を改正する条例の制定について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": null,
+      "result": "原案可決",
+      "decided_date": "令和7年6月18日"
+    },
+    {
+      "bill_id": "regular-047",
+      "title": "令和7年度日野市一般会計補正予算（第2号）",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_independent"
+        ],
+        "no": [
+          "party_jcp",
+          "party_mirai"
+        ],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_independent": {
+          "yes": 5,
+          "no": 2
+        }
+      },
+      "result": "原案可決",
+      "decided_date": "令和7年6月18日"
+    },
+    {
+      "bill_id": "regular-048",
+      "title": "日野市立豊田小学校校舎大規模改造建築工事請負契約の変更について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": null,
+      "result": "原案可決",
+      "decided_date": "令和7年6月2日"
+    },
+    {
+      "bill_id": "regular-049",
+      "title": "日野市立豊田小学校校舎大規模改造電気設備工事請負契約の変更について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": null,
+      "result": "原案可決",
+      "decided_date": "令和7年6月2日"
+    },
+    {
+      "bill_id": "regular-050",
+      "title": "財産の取得について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": null,
+      "result": "原案可決",
+      "decided_date": "令和7年6月2日"
+    },
+    {
+      "bill_id": "regular-051",
+      "title": "市道路線の認定について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": null,
+      "result": "原案可決",
+      "decided_date": "令和7年6月18日"
+    },
+    {
+      "bill_id": "regular-052",
+      "title": "日野市立福祉支援センターの指定管理者の指定について（日野市立福祉支援センターたまだいら）",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": null,
+      "result": "原案可決",
+      "decided_date": "令和7年6月18日"
+    },
+    {
+      "bill_id": "regular-053",
+      "title": "日野市副市長の選任について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": null,
+      "result": "同意",
+      "decided_date": "令和7年6月2日"
+    },
+    {
+      "bill_id": "regular-054",
+      "title": "日野市監査委員の選任について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": null,
+      "result": "同意",
+      "decided_date": "令和7年6月2日"
+    },
+    {
+      "bill_id": "regular-055",
+      "title": "日野市固定資産評価員の選任について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": null,
+      "result": "同意",
+      "decided_date": "令和7年6月10日"
+    },
+    {
+      "bill_id": "regular-petition-7-5",
+      "title": "マイナ保険証の保有に関わらず国保被保険者に資格確認書交付を求める請願",
+      "factions": null,
+      "factions_detail": null,
+      "result": "不採択",
+      "decided_date": "令和7年6月18日"
+    },
+    {
+      "bill_id": "regular-petition-7-6",
+      "title": "小中学校の雨漏りの実態を調査し、改修を今年度中に実施することを求める請願",
+      "factions": null,
+      "factions_detail": null,
+      "result": "不採択",
+      "decided_date": "令和7年6月18日"
+    }
+  ]
+}

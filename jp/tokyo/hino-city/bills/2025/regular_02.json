@@ -1,0 +1,224 @@
+{
+  "session_id": "2025-regular-02",
+  "source_url": "https://www.city.hino.tokyo.dbsr.jp/?Template=mokuji.2025-r07-02t-mok",
+  "bills": [
+    {
+      "bill_id": "regular-041",
+      "title": "日野市市税条例の一部を改正する条例制定の専決処分の報告承認について",
+      "category": "ordinance",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2025-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r07-0602_009"
+      ]
+    },
+    {
+      "bill_id": "regular-042",
+      "title": "日野市国民健康保険条例の一部を改正する条例制定の専決処分の報告承認について",
+      "category": "ordinance",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2025-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r07-0602_010"
+      ]
+    },
+    {
+      "bill_id": "regular-043",
+      "title": "日野市監査委員に関する条例等の一部を改正する条例の制定について",
+      "category": "ordinance",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2025-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r07-0602_011",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r07-0618_002"
+      ]
+    },
+    {
+      "bill_id": "regular-044",
+      "title": "日野市行政手続における特定の個人を識別するための番号の利用等に関する条例の一部を改正する条例の制定について",
+      "category": "ordinance",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2025-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r07-0602_011",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r07-0618_002"
+      ]
+    },
+    {
+      "bill_id": "regular-045",
+      "title": "日野市市民農園条例の制定について",
+      "category": "ordinance",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2025-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r07-0602_013",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r07-0618_006"
+      ]
+    },
+    {
+      "bill_id": "regular-046",
+      "title": "日野市特定教育・保育施設、特定地域型保育事業等の利用者負担に関する条例の一部を改正する条例の制定について",
+      "category": "ordinance",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2025-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r07-0602_014",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r07-0618_004"
+      ]
+    },
+    {
+      "bill_id": "regular-047",
+      "title": "令和7年度日野市一般会計補正予算（第2号）",
+      "category": "budget",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2025-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r07-0602_015",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r07-0618_001"
+      ]
+    },
+    {
+      "bill_id": "regular-048",
+      "title": "日野市立豊田小学校校舎大規模改造建築工事請負契約の変更について",
+      "category": null,
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2025-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r07-0602_016"
+      ]
+    },
+    {
+      "bill_id": "regular-049",
+      "title": "日野市立豊田小学校校舎大規模改造電気設備工事請負契約の変更について",
+      "category": null,
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2025-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r07-0602_017"
+      ]
+    },
+    {
+      "bill_id": "regular-050",
+      "title": "財産の取得について",
+      "category": null,
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2025-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r07-0602_018"
+      ]
+    },
+    {
+      "bill_id": "regular-051",
+      "title": "市道路線の認定について",
+      "category": null,
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2025-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r07-0602_019",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r07-0618_006"
+      ]
+    },
+    {
+      "bill_id": "regular-052",
+      "title": "日野市立福祉支援センターの指定管理者の指定について（日野市立福祉支援センターたまだいら）",
+      "category": null,
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2025-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r07-0602_020",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r07-0618_004"
+      ]
+    },
+    {
+      "bill_id": "regular-053",
+      "title": "日野市副市長の選任について",
+      "category": null,
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2025-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r07-0602_021"
+      ]
+    },
+    {
+      "bill_id": "regular-054",
+      "title": "日野市監査委員の選任について",
+      "category": null,
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2025-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r07-0602_022"
+      ]
+    },
+    {
+      "bill_id": "regular-006",
+      "title": "議会の指定議決に基づき専決処分した事項の報告について",
+      "category": "report",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2025-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r07-0602_027"
+      ]
+    },
+    {
+      "bill_id": "regular-petition-7-5",
+      "title": "マイナ保険証の保有に関わらず国保被保険者に資格確認書交付を求める請願",
+      "category": "petition",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2025-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r07-0605_006",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r07-0618_008"
+      ]
+    },
+    {
+      "bill_id": "regular-petition-7-6",
+      "title": "小中学校の雨漏りの実態を調査し、改修を今年度中に実施することを求める請願",
+      "category": "petition",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2025-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r07-0605_006",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r07-0618_008"
+      ]
+    },
+    {
+      "bill_id": "regular-055",
+      "title": "日野市固定資産評価員の選任について",
+      "category": null,
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2025-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r07-0610_003"
+      ]
+    },
+    {
+      "bill_id": "regular-001",
+      "title": "川辺堀之内土地区画整理事業における課題解決を目指す調査特別委員会の設置議決の一部改正について",
+      "category": null,
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2025-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r07-0618_015"
+      ]
+    }
+  ]
+}

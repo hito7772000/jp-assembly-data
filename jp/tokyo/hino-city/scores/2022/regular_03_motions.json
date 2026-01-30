@@ -1,0 +1,56 @@
+{
+  "session_id": "2022-regular-03",
+  "source_url": "https://www.city.hino.lg.jp/shigikai/gian/1020573.html",
+  "motions": [
+    {
+      "motion_id": "motion-001",
+      "title": "日野市・日野市議会として、世界平和統一家庭連合（旧統一教会）とのいかなる関係性をも拒絶する動議",
+      "factions": {
+        "yes": [
+          "party_jcp",
+          "party_independent"
+        ],
+        "no": [
+          "party_ldp",
+          "party_komei",
+          "party_mirai"
+        ],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_independent": {
+          "yes": 3,
+          "no": 4
+        }
+      },
+      "result": "否決",
+      "decided_date": "令和4年9月28日"
+    },
+    {
+      "motion_id": "motion-002",
+      "title": "北川原公園搬入路裁判の結果を受けて、日野市議会としての対応を協議する特別委員会の設置を求める動議",
+      "factions": {
+        "yes": [
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [
+          "party_ldp",
+          "party_komei"
+        ],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_independent": {
+          "yes": 4,
+          "no": 3
+        }
+      },
+      "result": "否決",
+      "decided_date": "令和4年9月28日"
+    }
+  ]
+}

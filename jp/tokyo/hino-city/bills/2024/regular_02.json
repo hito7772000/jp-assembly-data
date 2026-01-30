@@ -1,0 +1,272 @@
+{
+  "session_id": "2024-regular-02",
+  "source_url": "https://www.city.hino.tokyo.dbsr.jp/?Template=mokuji.2024-r06-02t-mok",
+  "bills": [
+    {
+      "bill_id": "regular-044",
+      "title": "日野市市税条例の一部を改正する条例制定の専決処分の報告承認について",
+      "category": "ordinance",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2024-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r06-0603_006"
+      ]
+    },
+    {
+      "bill_id": "regular-045",
+      "title": "日野市国民健康保険条例の一部を改正する条例制定の専決処分の報告承認について",
+      "category": "ordinance",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2024-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r06-0603_007"
+      ]
+    },
+    {
+      "bill_id": "regular-046",
+      "title": "令和6年度日野市一般会計補正予算（第2号）の専決処分の報告承認について",
+      "category": "budget",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2024-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r06-0603_008"
+      ]
+    },
+    {
+      "bill_id": "regular-047",
+      "title": "日野市都市計画事業基金条例の制定について",
+      "category": "ordinance",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2024-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r06-0603_009",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r06-0619_002"
+      ]
+    },
+    {
+      "bill_id": "regular-048",
+      "title": "日野市特別職の職員で非常勤のものの報酬及び費用弁償に関する条例の一部を改正する条例の制定について",
+      "category": "ordinance",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2024-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r06-0603_009",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r06-0619_002"
+      ]
+    },
+    {
+      "bill_id": "regular-049",
+      "title": "日野市清流保全-湧水・地下水の回復と河川・用水の保全-に関する条例の一部を改正する条例の制定について",
+      "category": "ordinance",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2024-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r06-0603_011",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r06-0619_005"
+      ]
+    },
+    {
+      "bill_id": "regular-050",
+      "title": "令和6年度日野市一般会計補正予算（第3号）",
+      "category": "budget",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2024-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r06-0603_012",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r06-0619_001"
+      ]
+    },
+    {
+      "bill_id": "regular-051",
+      "title": "令和6年度日野市国民健康保険特別会計補正予算（第1号）",
+      "category": "budget",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2024-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r06-0603_013",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r06-0619_004"
+      ]
+    },
+    {
+      "bill_id": "regular-052",
+      "title": "旧社会教育センター解体工事請負契約の締結について",
+      "category": null,
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2024-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r06-0603_014"
+      ]
+    },
+    {
+      "bill_id": "regular-053",
+      "title": "中央線日野・豊田間豊田跨線人道橋補修工事に関する施行協定の締結について",
+      "category": null,
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2024-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r06-0603_015"
+      ]
+    },
+    {
+      "bill_id": "regular-054",
+      "title": "和解について",
+      "category": null,
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2024-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r06-0603_016",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r06-0619_005"
+      ]
+    },
+    {
+      "bill_id": "regular-055",
+      "title": "日野市教育委員会委員の任命について",
+      "category": null,
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2024-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r06-0603_017"
+      ]
+    },
+    {
+      "bill_id": "regular-056",
+      "title": "人権擁護委員の推薦について",
+      "category": null,
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2024-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r06-0603_018"
+      ]
+    },
+    {
+      "bill_id": "regular-petition-6-4",
+      "title": "「再審法改正の促進を国に求める意見書」の提出を求める請願",
+      "category": "petition",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2024-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r06-0606_006",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r06-0619_007"
+      ]
+    },
+    {
+      "bill_id": "regular-petition-6-5",
+      "title": "消費者が安心して食品を選択出来るための明確な表示を求める請願",
+      "category": "petition",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2024-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r06-0606_007",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r06-0619_007"
+      ]
+    },
+    {
+      "bill_id": "regular-petition-6-6",
+      "title": "オスプレイの住宅地上空での飛行中止を求める請願",
+      "category": "petition",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2024-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r06-0606_008",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r06-0619_007"
+      ]
+    },
+    {
+      "bill_id": "regular-petition-6-7",
+      "title": "大坪市長による小池都知事への都知事選出馬要請に関する請願",
+      "category": "petition",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2024-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r06-0606_009",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r06-0619_007"
+      ]
+    },
+    {
+      "bill_id": "regular-petition-6-8",
+      "title": "インボイス制度の開始に伴い日野市内での緊急実態調査を要求する請願",
+      "category": "petition",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2024-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r06-0606_010",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r06-0619_012"
+      ]
+    },
+    {
+      "bill_id": "regular-petition-6-9",
+      "title": "大坪市長は、東京都知事選挙に先立ち、都内52首長連名による小池東京都知事への出馬要請をした詳細な経緯を、早急に市民に公開することを求める請願",
+      "category": "petition",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2024-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r06-0606_011",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r06-0619_007"
+      ]
+    },
+    {
+      "bill_id": "regular-petition-6-10",
+      "title": "適格請求書等保存方式（インボイス制度）について直ちに見直しを検討することを求める意見書を国に対して提出するよう求める請願",
+      "category": "petition",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2024-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r06-0606_012",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r06-0619_012"
+      ]
+    },
+    {
+      "bill_id": "regular-petition-6-3",
+      "title": "学校給食の無償化を求める請願",
+      "category": "petition",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2024-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r06-0619_014"
+      ]
+    },
+    {
+      "bill_id": "regular-057",
+      "title": "令和6年度日野市一般会計補正予算（第4号）",
+      "category": "budget",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2024-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r06-0619_021"
+      ]
+    },
+    {
+      "bill_id": "regular-proposal-002",
+      "title": "再審法改正の促進を国に求める意見書",
+      "category": "proposal",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2024-regular-02",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r06-0619_022"
+      ]
+    }
+  ]
+}

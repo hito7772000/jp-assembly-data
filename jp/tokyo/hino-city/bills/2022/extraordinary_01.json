@@ -1,0 +1,52 @@
+{
+  "session_id": "2022-extraordinary-01",
+  "source_url": "https://www.city.hino.tokyo.dbsr.jp/?Template=mokuji.2022-r04-01r-mok",
+  "bills": [
+    {
+      "bill_id": "extraordinary-091",
+      "title": "権利の放棄について",
+      "category": null,
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2022-extraordinary-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r04-1014_004",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r04-1021_001",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r04-1028_001"
+      ]
+    },
+    {
+      "bill_id": "extraordinary-092",
+      "title": "日野市長等の給料月額及び期末手当の特例に関する条例の制定について",
+      "category": "ordinance",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2022-extraordinary-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r04-1028_002"
+      ]
+    },
+    {
+      "bill_id": "extraordinary-093",
+      "title": "令和4年度日野市一般会計補正予算（第8号）",
+      "category": "budget",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2022-extraordinary-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r04-1028_003"
+      ]
+    },
+    {
+      "bill_id": "extraordinary-proposal-005",
+      "title": "権利の放棄に伴う議会責任に関する緊急決議",
+      "category": "proposal",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2022-extraordinary-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r04-1028_004"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,460 @@
+{
+  "session_id": "2023-regular-01",
+  "source_url": "https://www.city.hino.tokyo.dbsr.jp/?Template=mokuji.2023-r05-01t-mok",
+  "bills": [
+    {
+      "bill_id": "regular-005",
+      "title": "日野市一般職の職員の旅費に関する条例の一部を改正する条例の制定について",
+      "category": "ordinance",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0224_007",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0322_001"
+      ]
+    },
+    {
+      "bill_id": "regular-006",
+      "title": "日野市一般職の職員の給与に関する条例の一部を改正する条例の制定について",
+      "category": "ordinance",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0224_007",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0322_001"
+      ]
+    },
+    {
+      "bill_id": "regular-007",
+      "title": "日野市職員の育児休業等に関する条例の一部を改正する条例の制定について",
+      "category": "ordinance",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0224_007",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0322_001"
+      ]
+    },
+    {
+      "bill_id": "regular-008",
+      "title": "日野市職員の勤務時間、休日、休暇等に関する条例の一部を改正する条例の制定について",
+      "category": "ordinance",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0224_007",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0322_001"
+      ]
+    },
+    {
+      "bill_id": "regular-009",
+      "title": "日野市一般職の任期付職員の採用及び給与の特例に関する条例の一部を改正する条例の制定について",
+      "category": "ordinance",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0224_011",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0322_001"
+      ]
+    },
+    {
+      "bill_id": "regular-010",
+      "title": "日野市会計年度任用職員の給与に関する条例の一部を改正する条例の制定について",
+      "category": "ordinance",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0224_011",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0322_001"
+      ]
+    },
+    {
+      "bill_id": "regular-011",
+      "title": "日野市会計年度任用職員の勤務時間、休日、休暇等に関する条例の一部を改正する条例の制定について",
+      "category": "ordinance",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0224_011",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0322_001"
+      ]
+    },
+    {
+      "bill_id": "regular-012",
+      "title": "日野市営住宅条例の一部を改正する条例の制定について",
+      "category": "ordinance",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0224_011",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0322_001"
+      ]
+    },
+    {
+      "bill_id": "regular-013",
+      "title": "日野市清流保全-湧水・地下水の回復と河川・用水の保全-に関する条例の一部を改正する条例の制定について",
+      "category": "ordinance",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0224_015",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0322_012"
+      ]
+    },
+    {
+      "bill_id": "regular-014",
+      "title": "日野市まちづくり条例の一部を改正する条例の制定について",
+      "category": "ordinance",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0224_015",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0322_012"
+      ]
+    },
+    {
+      "bill_id": "regular-015",
+      "title": "日野市手数料条例の一部を改正する条例の制定について",
+      "category": "ordinance",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0224_015",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0322_012"
+      ]
+    },
+    {
+      "bill_id": "regular-016",
+      "title": "日野市立福祉センター条例の一部を改正する条例の制定について",
+      "category": "ordinance",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0224_018",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0322_009"
+      ]
+    },
+    {
+      "bill_id": "regular-017",
+      "title": "日野市子ども・子育て支援会議条例の一部を改正する条例の制定について",
+      "category": "ordinance",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0224_018",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0322_009"
+      ]
+    },
+    {
+      "bill_id": "regular-018",
+      "title": "令和4年度日野市一般会計補正予算（第13号）",
+      "category": "budget",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0224_020"
+      ]
+    },
+    {
+      "bill_id": "regular-019",
+      "title": "令和4年度日野市国民健康保険特別会計補正予算（第3号）",
+      "category": "budget",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0224_021"
+      ]
+    },
+    {
+      "bill_id": "regular-020",
+      "title": "令和4年度日野市土地区画整理事業特別会計補正予算（第1号）",
+      "category": "budget",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0224_022"
+      ]
+    },
+    {
+      "bill_id": "regular-021",
+      "title": "令和4年度日野市介護保険特別会計補正予算（第3号）",
+      "category": "budget",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0224_023"
+      ]
+    },
+    {
+      "bill_id": "regular-022",
+      "title": "令和4年度日野市後期高齢者医療特別会計補正予算（第2号）",
+      "category": "budget",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0224_024"
+      ]
+    },
+    {
+      "bill_id": "regular-023",
+      "title": "令和4年度日野市立病院事業会計補正予算（第2号）",
+      "category": "budget",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0224_025"
+      ]
+    },
+    {
+      "bill_id": "regular-024",
+      "title": "令和5年度日野市一般会計予算",
+      "category": "budget",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0224_026",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0322_015"
+      ]
+    },
+    {
+      "bill_id": "regular-025",
+      "title": "令和5年度日野市国民健康保険特別会計予算",
+      "category": "budget",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0224_027",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0322_016"
+      ]
+    },
+    {
+      "bill_id": "regular-026",
+      "title": "令和5年度日野市土地区画整理事業特別会計予算",
+      "category": "budget",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0224_027",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0322_016"
+      ]
+    },
+    {
+      "bill_id": "regular-027",
+      "title": "令和5年度日野市介護保険特別会計予算",
+      "category": "budget",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0224_027",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0322_016"
+      ]
+    },
+    {
+      "bill_id": "regular-028",
+      "title": "令和5年度日野市後期高齢者医療特別会計予算",
+      "category": "budget",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0224_027",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0322_016"
+      ]
+    },
+    {
+      "bill_id": "regular-029",
+      "title": "令和5年度日野市立病院事業会計予算",
+      "category": "budget",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0224_027",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0322_016"
+      ]
+    },
+    {
+      "bill_id": "regular-030",
+      "title": "令和5年度日野市下水道事業会計予算",
+      "category": "budget",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0224_027",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0322_016"
+      ]
+    },
+    {
+      "bill_id": "regular-031",
+      "title": "日野市国民健康保険条例の一部を改正する条例の制定について",
+      "category": "ordinance",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0224_033",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0322_009"
+      ]
+    },
+    {
+      "bill_id": "regular-032",
+      "title": "日野市固定資産評価審査委員会委員の選任について",
+      "category": null,
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0224_034"
+      ]
+    },
+    {
+      "bill_id": "regular-petition-5-1",
+      "title": "日野市保育園における使用済みおむつ持ち帰り問題に関する請願",
+      "category": "petition",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0301_006",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0322_024"
+      ]
+    },
+    {
+      "bill_id": "regular-petition-5-2",
+      "title": "日野市議会として「消費税は益税ではない」と宣言する決議を上げることを求める請願",
+      "category": "petition",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0301_007",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0322_022"
+      ]
+    },
+    {
+      "bill_id": "regular-petition-5-3",
+      "title": "保育士配置の最低基準の引き上げと保育予算の大幅な増額を求める意見書の採択を求める請願",
+      "category": "petition",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0301_008",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0322_024"
+      ]
+    },
+    {
+      "bill_id": "regular-petition-5-4",
+      "title": "安保関連3文書による「反撃能力」の保有をやめ、平和の外交の強化を求める意見書の提出に関する請願",
+      "category": "petition",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0301_009",
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0322_022"
+      ]
+    },
+    {
+      "bill_id": "regular-proposal-001",
+      "title": "日野市議会の個人情報の保護に関する条例の制定について",
+      "category": "ordinance",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0306_004"
+      ]
+    },
+    {
+      "bill_id": "regular-petition-4-11",
+      "title": "公立幼稚園（第四幼稚園）閉園計画に関する請願",
+      "category": "petition",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0322_024"
+      ]
+    },
+    {
+      "bill_id": "regular-033",
+      "title": "日野市行政手続における特定の個人を識別するための番号の利用等に関する条例の一部を改正する条例の制定について",
+      "category": "ordinance",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0322_032"
+      ]
+    },
+    {
+      "bill_id": "regular-034",
+      "title": "日野市個人情報保護法施行条例の一部を改正する条例の制定について",
+      "category": "ordinance",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0322_033"
+      ]
+    },
+    {
+      "bill_id": "regular-035",
+      "title": "令和5年度日野市一般会計補正予算（第1号）",
+      "category": "budget",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0322_034"
+      ]
+    },
+    {
+      "bill_id": "regular-proposal-002",
+      "title": "新型コロナウイルス感染症の後遺症の方々の日常を守る取り組みの強化を求める意見書",
+      "category": "proposal",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0322_035"
+      ]
+    },
+    {
+      "bill_id": "regular-proposal-003",
+      "title": "保育士配置の最低基準の引き上げと保育予算の大幅な増額を求める意見書",
+      "category": "proposal",
+      "proposer": "mayor",
+      "status": null,
+      "related_session_id": "2023-regular-01",
+      "source_url": [
+        "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r05-0322_036"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "session_id": "2025-regular-03",
+  "source_url": "https://www.city.hino.tokyo.dbsr.jp/?Template=mokuji.2025-r07-03t-mok",
+  "session_metadata": {
+    "start_date": "2025-09-01",
+    "end_date": "2025-10-07"
+  },
+  "general_questions": [
+    {
+      "question_id": "gq_001",
+      "member_id": "014",
+      "question_date": "2025-09-01"
+    },
+    {
+      "question_id": "gq_002",
+      "member_id": "004",
+      "question_date": "2025-09-01"
+    },
+    {
+      "question_id": "gq_003",
+      "member_id": "003",
+      "question_date": "2025-09-01"
+    },
+    {
+      "question_id": "gq_004",
+      "member_id": "021",
+      "question_date": "2025-09-01"
+    },
+    {
+      "question_id": "gq_005",
+      "member_id": "010",
+      "question_date": "2025-09-01"
+    }
+  ]
+}

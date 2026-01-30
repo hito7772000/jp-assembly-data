@@ -1,0 +1,30 @@
+{
+  "session_id": "2023-regular-04",
+  "source_url": "https://www.city.hino.tokyo.dbsr.jp/?Template=mokuji.2023-r05-04t-mok",
+  "session_metadata": {
+    "start_date": "2023-11-29",
+    "end_date": "2023-12-15"
+  },
+  "general_questions": [
+    {
+      "question_id": "gq_001",
+      "member_id": "007",
+      "question_date": "2023-11-29"
+    },
+    {
+      "question_id": "gq_002",
+      "member_id": "019",
+      "question_date": "2023-11-29"
+    },
+    {
+      "question_id": "gq_003",
+      "member_id": "009",
+      "question_date": "2023-11-29"
+    },
+    {
+      "question_id": "gq_004",
+      "member_id": "002",
+      "question_date": "2023-11-29"
+    }
+  ]
+}

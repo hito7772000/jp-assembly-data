@@ -1,0 +1,31 @@
+{
+  "session_id": "2024-regular-01",
+  "source_url": "https://www.city.hino.lg.jp/shigikai/gian/1025996.html",
+  "motions": [
+    {
+      "motion_id": "motion-001",
+      "title": "日野市等の調査において、なお解明が必要とされている河内元副市長をめぐる問題に関し特別委員会を設置して調査・解明を行うことを求める動議",
+      "factions": {
+        "yes": [
+          "party_jcp",
+          "party_independent"
+        ],
+        "no": [
+          "party_ldp",
+          "party_komei",
+          "party_mirai"
+        ],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_independent": {
+          "yes": 3,
+          "no": 5
+        }
+      },
+      "result": "否決",
+      "decided_date": "令和6年3月22日"
+    }
+  ]
+}

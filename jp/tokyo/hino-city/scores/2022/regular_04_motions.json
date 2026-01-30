@@ -1,0 +1,31 @@
+{
+  "session_id": "2022-regular-04",
+  "source_url": "https://www.city.hino.lg.jp/shigikai/gian/1022613.html",
+  "motions": [
+    {
+      "motion_id": "motion-001",
+      "title": "「“日野市が不正行為を働いた職員を処分するに当たり浮かび上がった談合疑惑”の真相解明を目的とする100条委員会」の設置を求める動議",
+      "factions": {
+        "yes": [
+          "party_jcp",
+          "party_independent"
+        ],
+        "no": [
+          "party_ldp",
+          "party_komei",
+          "party_mirai"
+        ],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_independent": {
+          "yes": 3,
+          "no": 4
+        }
+      },
+      "result": "否決",
+      "decided_date": "令和4年12月15日"
+    }
+  ]
+}

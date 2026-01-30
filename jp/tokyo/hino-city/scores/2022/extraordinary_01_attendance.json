@@ -1,0 +1,17 @@
+{
+  "session_id": "2022-extraordinary-01",
+  "source_url": "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r04-1014_mei",
+  "session_metadata": {
+    "start_date": "2022-10-14",
+    "end_date": "2022-10-28",
+    "total_members": 1,
+    "total_session_days": 9
+  },
+  "attendance": {
+    "024": {
+      "sessions_attended": 9,
+      "total_sessions": 9,
+      "attendance_rate": 100.0
+    }
+  }
+}

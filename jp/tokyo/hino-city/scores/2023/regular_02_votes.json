@@ -1,0 +1,573 @@
+{
+  "session_id": "2023-regular-02",
+  "source_url": "https://www.city.hino.lg.jp/shigikai/gian/1024137.html",
+  "votes": [
+    {
+      "bill_id": "regular-036",
+      "title": "日野市市税条例の一部を改正する条例制定の専決処分の報告承認について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": null,
+      "result": "承認",
+      "decided_date": "令和5年5月31日"
+    },
+    {
+      "bill_id": "regular-037",
+      "title": "日野市国民健康保険条例の一部を改正する条例制定の専決処分の報告承認について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": null,
+      "result": "承認",
+      "decided_date": "令和5年5月31日"
+    },
+    {
+      "bill_id": "regular-038",
+      "title": "令和5年度日野市一般会計補正予算（第2号）の専決処分の報告承認について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": null,
+      "result": "承認",
+      "decided_date": "令和5年5月31日"
+    },
+    {
+      "bill_id": "regular-039",
+      "title": "日野市一般職の職員の給与に関する条例の一部を改正する条例の制定について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_independent": {
+          "yes": 6,
+          "absent": 1
+        }
+      },
+      "result": "原案可決",
+      "decided_date": "令和5年6月16日"
+    },
+    {
+      "bill_id": "regular-040",
+      "title": "日野市営住宅条例の一部を改正する条例の制定について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_independent": {
+          "yes": 6,
+          "absent": 1
+        }
+      },
+      "result": "原案可決",
+      "decided_date": "令和5年6月16日"
+    },
+    {
+      "bill_id": "regular-041",
+      "title": "日野市市税条例の一部を改正する条例の制定について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [
+          "party_jcp"
+        ],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_independent": {
+          "yes": 4,
+          "no": 2,
+          "absent": 1
+        }
+      },
+      "result": "原案可決",
+      "decided_date": "令和5年6月16日"
+    },
+    {
+      "bill_id": "regular-042",
+      "title": "日野市手数料条例の一部を改正する条例の制定について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_independent": {
+          "yes": 6,
+          "absent": 1
+        }
+      },
+      "result": "原案可決",
+      "decided_date": "令和5年6月16日"
+    },
+    {
+      "bill_id": "regular-043",
+      "title": "日野市市民会館条例の一部を改正する条例の制定について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [
+          "party_jcp"
+        ],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_independent": {
+          "yes": 4,
+          "no": 2,
+          "absent": 1
+        }
+      },
+      "result": "原案可決",
+      "decided_date": "令和5年6月16日"
+    },
+    {
+      "bill_id": "regular-044",
+      "title": "日野市体育施設条例の一部を改正する条例の制定について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [
+          "party_jcp"
+        ],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_independent": {
+          "yes": 4,
+          "no": 2,
+          "absent": 1
+        }
+      },
+      "result": "原案可決",
+      "decided_date": "令和5年6月16日"
+    },
+    {
+      "bill_id": "regular-045",
+      "title": "日野市市民の森ふれあいホール条例の一部を改正する条例の制定について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [
+          "party_jcp"
+        ],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_independent": {
+          "yes": 4,
+          "no": 2,
+          "absent": 1
+        }
+      },
+      "result": "原案可決",
+      "decided_date": "令和5年6月16日"
+    },
+    {
+      "bill_id": "regular-046",
+      "title": "日野市子どもの医療費の助成に関する条例の一部を改正する条例の制定について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_independent": {
+          "yes": 6,
+          "absent": 1
+        }
+      },
+      "result": "原案可決",
+      "decided_date": "令和5年6月16日"
+    },
+    {
+      "bill_id": "regular-047",
+      "title": "令和5年度日野市一般会計補正予算（第3号）",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_independent": {
+          "yes": 6,
+          "absent": 1
+        }
+      },
+      "result": "原案可決",
+      "decided_date": "令和5年6月16日"
+    },
+    {
+      "bill_id": "regular-048",
+      "title": "令和5年度日野市国民健康保険特別会計補正予算（第1号）",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [
+          "party_jcp"
+        ],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_independent": {
+          "yes": 4,
+          "no": 2,
+          "absent": 1
+        }
+      },
+      "result": "原案可決",
+      "decided_date": "令和5年6月16日"
+    },
+    {
+      "bill_id": "regular-049",
+      "title": "訴えの提起について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [
+          "party_jcp"
+        ],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_independent": {
+          "yes": 5,
+          "no": 1,
+          "absent": 1
+        }
+      },
+      "result": "原案可決",
+      "decided_date": "令和5年6月16日"
+    },
+    {
+      "bill_id": "regular-050",
+      "title": "令和5年度日野市一般会計補正予算（第4号）",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_independent": {
+          "yes": 6,
+          "absent": 1
+        }
+      },
+      "result": "原案可決",
+      "decided_date": "令和5年6月16日"
+    },
+    {
+      "bill_id": "regular-051",
+      "title": "日野市役所本庁舎非常用発電機改修工事請負契約の締結について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [
+          "party_jcp"
+        ],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_independent": {
+          "yes": 4,
+          "no": 2,
+          "absent": 1
+        }
+      },
+      "result": "原案可決",
+      "decided_date": "令和5年6月8日"
+    },
+    {
+      "bill_id": "regular-proposal-004",
+      "title": "子ども医療費助成の拡充に関する意見書",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_independent": {
+          "yes": 6,
+          "absent": 1
+        }
+      },
+      "result": "原案可決",
+      "decided_date": "令和5年6月16日"
+    },
+    {
+      "bill_id": "regular-petition-5-5",
+      "title": "日野市内の駐輪場の無料化を求める請願",
+      "factions": {
+        "yes": [
+          "party_jcp",
+          "party_independent"
+        ],
+        "no": [
+          "party_ldp",
+          "party_komei",
+          "party_mirai"
+        ],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_independent": {
+          "yes": 2,
+          "no": 4,
+          "absent": 1
+        }
+      },
+      "result": "不採択",
+      "decided_date": "令和5年6月16日"
+    },
+    {
+      "bill_id": "regular-petition-5-6",
+      "title": "原発事故発災時に、日野市として、24 時間以内に、市内の被災者全員が、安定ヨウ素を服用できる体制と放射能管理体制を構築するよう求める請願",
+      "factions": {
+        "yes": [
+          "party_jcp",
+          "party_independent"
+        ],
+        "no": [
+          "party_ldp",
+          "party_komei",
+          "party_mirai"
+        ],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_independent": {
+          "yes": 2,
+          "no": 4,
+          "absent": 1
+        }
+      },
+      "result": "不採択",
+      "decided_date": "令和5年6月16日"
+    },
+    {
+      "bill_id": "regular-petition-5-7",
+      "title": "市議会での請願審査は、冒頭に位置づけるよう改善を求める請願",
+      "factions": {
+        "yes": [
+          "party_jcp",
+          "party_independent"
+        ],
+        "no": [
+          "party_ldp",
+          "party_komei",
+          "party_mirai"
+        ],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_independent": {
+          "yes": 3,
+          "no": 3,
+          "absent": 1
+        }
+      },
+      "result": "不採択",
+      "decided_date": "令和5年6月16日"
+    },
+    {
+      "bill_id": "regular-petition-5-8",
+      "title": "デジタル化により、不具合が発生しているマイナンバーカードに紐づいた国民健康保険証については、一旦中止して、紙の保険証でも通用する事を市民に周知するよう求める請願",
+      "factions": {
+        "yes": [
+          "party_jcp",
+          "party_independent"
+        ],
+        "no": [
+          "party_ldp",
+          "party_komei",
+          "party_mirai"
+        ],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_independent": {
+          "yes": 3,
+          "no": 3,
+          "absent": 1
+        }
+      },
+      "result": "不採択",
+      "decided_date": "令和5年6月16日"
+    },
+    {
+      "bill_id": "regular-petition-5-9",
+      "title": "木更津に暫定配備されている陸上自衛隊所属の V－22 オスプレイが、立川基地に飛来し、訓練するにあたって、住民への説明会を開くよう、防衛省に要請することを求める請願",
+      "factions": {
+        "yes": [
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [
+          "party_ldp",
+          "party_komei"
+        ],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_mirai": {
+          "yes": 1,
+          "no": 2
+        },
+        "party_independent": {
+          "yes": 4,
+          "no": 2,
+          "absent": 1
+        }
+      },
+      "result": "不採択",
+      "decided_date": "令和5年6月16日"
+    },
+    {
+      "bill_id": "regular-petition-5-10",
+      "title": "「新型コロナウイルス感染症」についての市ホームページ・広報等上での説明、記載に関する請願",
+      "factions": {
+        "yes": [
+          "party_independent"
+        ],
+        "no": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai"
+        ],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_independent": {
+          "yes": 3,
+          "no": 3,
+          "absent": 1
+        }
+      },
+      "result": "不採択",
+      "decided_date": "令和5年6月16日"
+    }
+  ]
+}

@@ -11,13 +11,13 @@
       "seats": 4
     },
     {
-      "id": "party_ldp",
-      "name": "自由民主党日野市議団",
-      "seats": 4
+      "id": "party_independent",
+      "name": "無会派",
+      "seats": 7
     },
     {
-      "id": "party_komei",
-      "name": "公明党",
+      "id": "party_ldp",
+      "name": "自由民主党日野市議団",
       "seats": 4
     },
     {
@@ -26,19 +26,14 @@
       "seats": 3
     },
     {
-      "id": "party_network",
-      "name": "日野・生活者ネットワーク",
-      "seats": 1
-    },
-    {
-      "id": "party_independent",
-      "name": "無会派",
-      "seats": 6
+      "id": "party_komei",
+      "name": "公明党",
+      "seats": 4
     }
   ],
   "sources": {
-    "members_pdf": "https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/019/323/giinmeibo070613.pdf",
-    "members_page": "https://www.city.hino.lg.jp/shigikai/meibo/index.html"
+    "members_page": "https://www.city.hino.lg.jp/shigikai/meibo/1019323.html",
+    "members_pdf": "https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/019/323/giinmeibo070613.pdf"
   },
-  "last_updated": "2026-01-28T10:51:00+09:00"
+  "last_updated": "2025-06-13T00:00:00+09:00"
 }

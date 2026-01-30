@@ -1,0 +1,232 @@
+{
+  "session_id": "2022-regular-02",
+  "source_url": "https://www.city.hino.lg.jp/shigikai/gian/1019925.html",
+  "votes": [
+    {
+      "bill_id": "regular-045",
+      "title": "令和4年度日野市一般会計補正予算（第2号）の専決処分の報告承認について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_jcp": {
+          "yes": 2,
+          "no": 2
+        },
+        "party_independent": {
+          "yes": 6,
+          "no": 1
+        }
+      },
+      "result": "承認",
+      "decided_date": "令和4年6月2日"
+    },
+    {
+      "bill_id": "regular-046",
+      "title": "日野市立病院使用条例の一部を改正する条例の制定について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_independent": {
+          "yes": 6,
+          "no": 1
+        }
+      },
+      "result": "原案可決",
+      "decided_date": "令和4年6月20日"
+    },
+    {
+      "bill_id": "regular-047",
+      "title": "令和4年度日野市一般会計補正予算（第3号）",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_independent": {
+          "yes": 5,
+          "no": 2
+        }
+      },
+      "result": "原案可決",
+      "decided_date": "令和4年6月20日"
+    },
+    {
+      "bill_id": "regular-048",
+      "title": "令和4年度日野市国民健康保険特別会計補正予算（第1号）",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": null,
+      "result": "原案可決",
+      "decided_date": "令和4年6月20日"
+    },
+    {
+      "bill_id": "regular-049",
+      "title": "（仮称）子ども包括支援センター建築工事請負契約の締結について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [
+          "party_jcp"
+        ],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_independent": {
+          "yes": 5,
+          "no": 2
+        }
+      },
+      "result": "原案可決",
+      "decided_date": "令和4年6月2日"
+    },
+    {
+      "bill_id": "regular-050",
+      "title": "市道路線の一部廃止について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": null,
+      "result": "原案可決",
+      "decided_date": "令和4年6月20日"
+    },
+    {
+      "bill_id": "regular-051",
+      "title": "市道路線の廃止について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": null,
+      "result": "原案可決",
+      "decided_date": "令和4年6月20日"
+    },
+    {
+      "bill_id": "regular-052",
+      "title": "市道路線の認定について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": null,
+      "result": "原案可決",
+      "decided_date": "令和4年6月20日"
+    },
+    {
+      "bill_id": "regular-053",
+      "title": "令和4年度日野市一般会計補正予算（第4号）",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_independent": {
+          "yes": 6,
+          "no": 1
+        }
+      },
+      "result": "原案可決",
+      "decided_date": "令和4年6月20日"
+    },
+    {
+      "bill_id": "regular-petition-4-4",
+      "title": "子どもの健全な育成のためのマスク着用の緩和に関する請願",
+      "factions": {
+        "yes": [
+          "party_independent"
+        ],
+        "no": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai"
+        ],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_independent": {
+          "yes": 4,
+          "no": 3
+        }
+      },
+      "result": "不採択",
+      "decided_date": "令和4年6月20日"
+    }
+  ]
+}

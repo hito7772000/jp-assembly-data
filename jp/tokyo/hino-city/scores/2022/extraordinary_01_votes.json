@@ -1,0 +1,92 @@
+{
+  "session_id": "2022-extraordinary-01",
+  "source_url": "https://www.city.hino.lg.jp/shigikai/gian/1022322.html",
+  "votes": [
+    {
+      "bill_id": "extraordinary-091",
+      "title": "権利の放棄について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": null,
+      "result": "原案可決",
+      "decided_date": "令和4年10月28日"
+    },
+    {
+      "bill_id": "extraordinary-092",
+      "title": "日野市長等の給料月額及び期末手当の特例に関する条例の制定について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_independent": {
+          "yes": 6,
+          "no": 1
+        }
+      },
+      "result": "原案可決",
+      "decided_date": "令和4年10月28日"
+    },
+    {
+      "bill_id": "extraordinary-093",
+      "title": "令和4年度日野市一般会計補正予算（第8号）",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_independent": {
+          "yes": 6,
+          "no": 1
+        }
+      },
+      "result": "原案可決",
+      "decided_date": "令和4年10月28日"
+    },
+    {
+      "bill_id": "extraordinary-proposal-005",
+      "title": "権利の放棄に伴う議会責任に関する緊急決議",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": null,
+      "result": "原案可決",
+      "decided_date": "令和4年10月28日"
+    }
+  ]
+}

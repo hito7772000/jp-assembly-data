@@ -1,0 +1,82 @@
+{
+  "session_id": "2023-extraordinary-01",
+  "source_url": "https://www.city.hino.lg.jp/shigikai/gian/1023196.html",
+  "votes": [
+    {
+      "bill_id": "extraordinary-001",
+      "title": "（仮称）子ども包括支援センター建築工事請負契約の変更について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": null,
+      "result": "原案可決",
+      "decided_date": "令和5年1月30日"
+    },
+    {
+      "bill_id": "extraordinary-002",
+      "title": "（仮称）子ども包括支援センター電気設備工事請負契約の締結について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": null,
+      "result": "原案可決",
+      "decided_date": "令和5年1月30日"
+    },
+    {
+      "bill_id": "extraordinary-003",
+      "title": "令和4年度日野市一般会計補正予算（第12号）",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": null,
+      "result": "原案可決",
+      "decided_date": "令和5年1月30日"
+    },
+    {
+      "bill_id": "extraordinary-004",
+      "title": "日野市平山三丁目30番地の12における市の義務に属する下水道溢水事故に係る和解の締結及び損害賠償の額の決定について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": null,
+      "result": "原案可決",
+      "decided_date": "令和5年1月30日"
+    }
+  ]
+}

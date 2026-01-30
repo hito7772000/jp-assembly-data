@@ -1,0 +1,17 @@
+{
+  "session_id": "2025-extraordinary-01",
+  "source_url": "https://www.city.hino.tokyo.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r07-0729_mei",
+  "session_metadata": {
+    "start_date": "2025-07-29",
+    "end_date": "2025-07-29",
+    "total_members": 1,
+    "total_session_days": 3
+  },
+  "attendance": {
+    "024": {
+      "sessions_attended": 3,
+      "total_sessions": 3,
+      "attendance_rate": 100.0
+    }
+  }
+}

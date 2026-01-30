@@ -1,0 +1,30 @@
+{
+  "session_id": "2025-extraordinary-01",
+  "source_url": "https://www.city.hino.lg.jp/shigikai/gian/1029481.html",
+  "votes": [
+    {
+      "bill_id": "extraordinary-056",
+      "title": "日野市教育委員会教育長の任命について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_independent": {
+          "yes": 5,
+          "absent": 2
+        }
+      },
+      "result": "同意",
+      "decided_date": "令和7年7月29日"
+    }
+  ]
+}

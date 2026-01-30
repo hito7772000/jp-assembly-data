@@ -1,0 +1,56 @@
+{
+  "session_id": "2024-regular-04",
+  "source_url": "https://www.city.hino.lg.jp/shigikai/gian/1027901.html",
+  "motions": [
+    {
+      "motion_id": "motion-001",
+      "title": "川辺堀之内土地区画整理事業における課題解決を目指す調査特別委員会設置に関する動議",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [
+          "party_jcp"
+        ],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_independent": {
+          "yes": 3,
+          "no": 5
+        }
+      },
+      "result": "可決",
+      "decided_date": "令和6年12月17日"
+    },
+    {
+      "motion_id": "motion-002",
+      "title": "川辺堀之内土地区画整理事業における助成金詐欺事件等に関する調査特別委員会の設置を求める動議",
+      "factions": {
+        "yes": [
+          "party_jcp",
+          "party_independent"
+        ],
+        "no": [
+          "party_ldp",
+          "party_komei",
+          "party_mirai"
+        ],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_independent": {
+          "yes": 4,
+          "no": 4
+        }
+      },
+      "result": "否決",
+      "decided_date": "令和6年12月17日"
+    }
+  ]
+}

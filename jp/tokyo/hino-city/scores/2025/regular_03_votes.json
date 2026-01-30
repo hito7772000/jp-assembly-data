@@ -1,0 +1,544 @@
+{
+  "session_id": "2025-regular-03",
+  "source_url": "https://www.city.hino.lg.jp/shigikai/gian/1029599.html",
+  "votes": [
+    {
+      "bill_id": "regular-057",
+      "title": "令和6年度日野市一般会計決算の認定について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [
+          "party_jcp"
+        ],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_komei": {
+          "yes": 3,
+          "absent": 1
+        }
+      },
+      "result": "認定",
+      "decided_date": "令和7年9月29日"
+    },
+    {
+      "bill_id": "regular-058",
+      "title": "令和6年度日野市国民健康保険特別会計決算の認定について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_komei": {
+          "yes": 3,
+          "absent": 1
+        }
+      },
+      "result": "認定",
+      "decided_date": "令和7年9月29日"
+    },
+    {
+      "bill_id": "regular-059",
+      "title": "令和6年度日野市土地区画整理事業特別会計決算の認定について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_komei": {
+          "yes": 3,
+          "absent": 1
+        }
+      },
+      "result": "認定",
+      "decided_date": "令和7年9月29日"
+    },
+    {
+      "bill_id": "regular-060",
+      "title": "令和6年度日野市介護保険特別会計決算の認定について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_komei": {
+          "yes": 3,
+          "absent": 1
+        }
+      },
+      "result": "認定",
+      "decided_date": "令和7年9月29日"
+    },
+    {
+      "bill_id": "regular-061",
+      "title": "令和6年度日野市後期高齢者医療特別会計決算の認定について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_komei": {
+          "yes": 3,
+          "absent": 1
+        }
+      },
+      "result": "認定",
+      "decided_date": "令和7年9月29日"
+    },
+    {
+      "bill_id": "regular-062",
+      "title": "令和6年度日野市立病院事業会計決算の認定について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_komei": {
+          "yes": 3,
+          "absent": 1
+        }
+      },
+      "result": "認定",
+      "decided_date": "令和7年9月29日"
+    },
+    {
+      "bill_id": "regular-063",
+      "title": "令和6年度日野市下水道事業会計決算の認定について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_komei": {
+          "yes": 3,
+          "absent": 1
+        }
+      },
+      "result": "認定",
+      "decided_date": "令和7年9月29日"
+    },
+    {
+      "bill_id": "regular-064",
+      "title": "日野市市税条例の一部を改正する条例の制定について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_komei": {
+          "yes": 3,
+          "absent": 1
+        }
+      },
+      "result": "原案可決",
+      "decided_date": "令和7年9月29日"
+    },
+    {
+      "bill_id": "regular-065",
+      "title": "日野市立公園における移動等円滑化の基準に関する条例の一部を改正する条例の制定について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_komei": {
+          "yes": 3,
+          "absent": 1
+        }
+      },
+      "result": "原案可決",
+      "decided_date": "令和7年9月29日"
+    },
+    {
+      "bill_id": "regular-066",
+      "title": "日野市ひとり親家庭等の医療費の助成に関する条例の一部を改正する条例の制定について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_komei": {
+          "yes": 3,
+          "absent": 1
+        }
+      },
+      "result": "原案可決",
+      "decided_date": "令和7年9月29日"
+    },
+    {
+      "bill_id": "regular-067",
+      "title": "日野市子どもの医療費の助成に関する条例の一部を改正する条例の制定について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_komei": {
+          "yes": 3,
+          "absent": 1
+        }
+      },
+      "result": "原案可決",
+      "decided_date": "令和7年9月29日"
+    },
+    {
+      "bill_id": "regular-068",
+      "title": "日野市乳児等通園支援事業の設備及び運営に関する基準を定める条例の制定について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_komei": {
+          "yes": 3,
+          "absent": 1
+        }
+      },
+      "result": "原案可決",
+      "decided_date": "令和7年9月29日"
+    },
+    {
+      "bill_id": "regular-069",
+      "title": "日野市立病院使用条例の一部を改正する条例の制定について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_komei": {
+          "yes": 3,
+          "absent": 1
+        }
+      },
+      "result": "原案可決",
+      "decided_date": "令和7年9月29日"
+    },
+    {
+      "bill_id": "regular-070",
+      "title": "令和7年度日野市一般会計補正予算（第3号）",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_komei": {
+          "yes": 3,
+          "absent": 1
+        }
+      },
+      "result": "原案可決",
+      "decided_date": "令和7年9月29日"
+    },
+    {
+      "bill_id": "regular-071",
+      "title": "令和7年度日野市国民健康保険特別会計補正予算（第1号）",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_komei": {
+          "yes": 3,
+          "absent": 1
+        }
+      },
+      "result": "原案可決",
+      "decided_date": "令和7年9月29日"
+    },
+    {
+      "bill_id": "regular-072",
+      "title": "令和7年度日野市介護保険特別会計補正予算（第1号）",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_komei": {
+          "yes": 3,
+          "absent": 1
+        }
+      },
+      "result": "原案可決",
+      "decided_date": "令和7年9月29日"
+    },
+    {
+      "bill_id": "regular-073",
+      "title": "令和7年度日野市後期高齢者医療特別会計補正予算（第1号）",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_komei": {
+          "yes": 3,
+          "absent": 1
+        }
+      },
+      "result": "原案可決",
+      "decided_date": "令和7年9月29日"
+    },
+    {
+      "bill_id": "regular-074",
+      "title": "令和7年度日野市立病院事業会計補正予算（第1号）",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_komei": {
+          "yes": 3,
+          "absent": 1
+        }
+      },
+      "result": "原案可決",
+      "decided_date": "令和7年9月29日"
+    },
+    {
+      "bill_id": "regular-075",
+      "title": "日野市立豊田小学校校舎大規模改造電気設備工事請負契約の変更について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": null,
+      "result": "原案可決",
+      "decided_date": "令和7年9月1日"
+    },
+    {
+      "bill_id": "regular-076",
+      "title": "日野市教育委員会委員の任命について",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": null,
+      "result": "同意",
+      "decided_date": "令和7年9月1日"
+    },
+    {
+      "bill_id": "regular-petition-7-7",
+      "title": "6月12日国連総会緊急会合での「即時停戦など求める決議採択」を受け、日野市議会としても支持する決議を求める請願",
+      "factions": {
+        "yes": [],
+        "no": [],
+        "abstain": [],
+        "absent": [
+          "party_komei"
+        ]
+      },
+      "factions_detail": {
+        "party_komei": {
+          "absent": 1
+        }
+      },
+      "result": "採択",
+      "decided_date": "令和7年9月29日"
+    },
+    {
+      "bill_id": "regular-proposal-003",
+      "title": "米国の関税措置に対応した中小企業等支援策の拡充を求める意見書",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_komei": {
+          "yes": 3,
+          "absent": 1
+        }
+      },
+      "result": "原案可決",
+      "decided_date": "令和7年9月29日"
+    },
+    {
+      "bill_id": "regular-proposal-004",
+      "title": "ガザ地区における即時停戦および民間人保護を求める決議",
+      "factions": {
+        "yes": [
+          "party_ldp",
+          "party_komei",
+          "party_jcp",
+          "party_mirai",
+          "party_independent"
+        ],
+        "no": [],
+        "abstain": [],
+        "absent": []
+      },
+      "factions_detail": {
+        "party_komei": {
+          "yes": 3,
+          "absent": 1
+        }
+      },
+      "result": "原案可決",
+      "decided_date": "令和7年9月29日"
+    }
+  ]
+}

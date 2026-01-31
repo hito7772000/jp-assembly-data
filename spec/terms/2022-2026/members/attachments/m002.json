@@ -1,0 +1,14 @@
+﻿{
+  "member_id": "m002",
+  "attachments": [
+    {
+      "id": "att-001",
+      "title": "隴ｰ蜩｡諠・ｱ",
+      "url": "https://example.com/file.pdf",
+      "type": "pdf",
+      "pages": 1,
+      "source": "隴ｰ蜩｡諠・ｱ",
+      "notes": null
+    }
+  ]
+}

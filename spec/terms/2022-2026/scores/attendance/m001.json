@@ -1,0 +1,8 @@
+{
+  "member_id": "m001",
+  "rate": 96,
+  "records": [
+    { "date": "2023-03-01", "status": "present" },
+    { "date": "2023-03-02", "status": "absent" }
+  ]
+}

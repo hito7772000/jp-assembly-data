@@ -1,0 +1,14 @@
+﻿{
+  "committee_id": "c001",
+  "attachments": [
+    {
+      "id": "att-001",
+      "title": "委員会情報",
+      "url": "https://example.com/file.pdf",
+      "type": "pdf",
+      "pages": 3,
+      "source": "委員会情報",
+      "notes": null
+    }
+  ]
+}

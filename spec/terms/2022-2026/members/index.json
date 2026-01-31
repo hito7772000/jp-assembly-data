@@ -1,0 +1,20 @@
+﻿{
+  "members": [
+    {
+      "id": "m001",
+      "name": "山田太郎",
+      "official_number": "1",
+      "joined": "2022-04-01",
+      "resigned": "2024-06-30",
+      "party_id": "p001"
+    },
+    {
+      "id": "m002",
+      "name": "佐藤花子",
+      "official_number": "1",
+      "joined": "2024-09-01",
+      "resigned": null,
+      "party_id": "p001"
+    }
+  ]
+}

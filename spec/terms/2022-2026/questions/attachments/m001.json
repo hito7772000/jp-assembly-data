@@ -1,0 +1,14 @@
+﻿{
+  "member_id": "m001",
+  "attachments": [
+    {
+      "id": "att-001",
+      "title": "荳闊ｬ雉ｪ蝠・",
+      "url": "https://example.com/file.pdf",
+      "type": "pdf",
+      "pages": 3,
+      "source": "荳闊ｬ雉ｪ蝠乗ュ蝣ｱ",
+      "notes": null
+    }
+  ]
+}

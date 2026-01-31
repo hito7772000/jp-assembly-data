@@ -1,0 +1,14 @@
+﻿{
+  "committees": [
+    {
+      "id": "c001",
+      "name": "総務委員会",
+      "type": "standing"
+    },
+    {
+      "id": "c002",
+      "name": "文教委員会",
+      "type": "standing"
+    }
+  ]
+}

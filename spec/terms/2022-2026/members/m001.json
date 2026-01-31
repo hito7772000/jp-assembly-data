@@ -1,0 +1,11 @@
+﻿{
+  "id": "m001",
+  "name": "山田太郎",
+  "official_number": "1",
+  "joined": "2022-04-01",
+  "resigned": "2024-06-30",
+  "profile_url": "https://...",
+  "party_history": [
+    { "id": "p001", "from": "2022-04-01", "to": "2024-06-30" }
+  ]
+}

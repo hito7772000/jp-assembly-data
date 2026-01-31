@@ -1,0 +1,16 @@
+{
+  "bill_id": "b001",
+  "categories": [
+    "childcare",
+    "education",
+    "welfare"
+  ],
+  "tags": [
+    "nursery",
+    "capacity",
+    "waiting_children"
+  ],
+  "policy_area": "childcare",
+  "importance": "medium",
+  "notes": null
+}

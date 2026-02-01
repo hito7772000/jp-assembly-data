@@ -1,0 +1,11 @@
+﻿{
+  "id": "p001",
+  "name": "市民クラブ",
+  "tags": ["ideology_civic"],
+  "source": [
+    {
+      "url": "https://www.city.hino.lg.jp/gikai/party/shimin.html",
+      "retrieved_at": "2024-01-10T12:00:00+09:00"
+    }
+  ]
+}

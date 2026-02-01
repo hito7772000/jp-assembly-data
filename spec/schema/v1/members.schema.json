@@ -1,0 +1,55 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Member",
+  "type": "object",
+  "required": ["id", "name", "party_history"],
+  "properties": {
+    "id": { "type": "string" },
+    "official_number": { "type": "string" },
+    "name": { "type": "string" },
+    "joined": { "type": ["string", "null"], "format": "date" },
+    "resigned": { "type": ["string", "null"], "format": "date" },
+    "profile_url": { "type": ["string", "null"], "format": "uri" },
+
+    "party_history": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["party_id", "from"],
+        "properties": {
+          "party_id": { "type": ["string", "null"] },
+          "from": { "type": "string", "format": "date" },
+          "to": { "type": ["string", "null"], "format": "date" },
+          "roles": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["role", "from"],
+              "properties": {
+                "role": { "type": "string" },
+                "from": { "type": "string", "format": "date" },
+                "to": { "type": ["string", "null"], "format": "date" }
+              }
+            }
+          }
+        }
+      }
+    },
+
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+
+    "source": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "url": { "type": "string", "format": "uri" },
+          "retrieved_at": { "type": "string", "format": "date-time" }
+        }
+      }
+    }
+  }
+}

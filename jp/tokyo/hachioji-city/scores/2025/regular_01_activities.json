@@ -1,0 +1,55 @@
+{
+  "session_id": "2025-regular-01",
+  "source_url": "https://www.city.hachioji.tokyo.dbsr.jp/488270?Template=document&Id=6018#one",
+  "session_metadata": {
+    "start_date": "2025-02-26",
+    "end_date": "2025-03-28"
+  },
+  "general_questions": [
+    {
+      "question_id": "gq_001",
+      "member_id": "038",
+      "question_date": "2025-03-28"
+    },
+    {
+      "question_id": "gq_002",
+      "member_id": "025",
+      "question_date": "2025-03-28"
+    },
+    {
+      "question_id": "gq_003",
+      "member_id": "034",
+      "question_date": "2025-03-28"
+    },
+    {
+      "question_id": "gq_004",
+      "member_id": "017",
+      "question_date": "2025-03-28"
+    },
+    {
+      "question_id": "gq_005",
+      "member_id": "021",
+      "question_date": "2025-03-28"
+    },
+    {
+      "question_id": "gq_006",
+      "member_id": "010",
+      "question_date": "2025-03-28"
+    },
+    {
+      "question_id": "gq_007",
+      "member_id": "019",
+      "question_date": "2025-03-28"
+    },
+    {
+      "question_id": "gq_008",
+      "member_id": "013",
+      "question_date": "2025-03-28"
+    },
+    {
+      "question_id": "gq_009",
+      "member_id": "002",
+      "question_date": "2025-03-28"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "tag_id": "local_hino_station",
+    "name": "日野駅周辺整備",
+    "level": "small",
+    "local": true,
+    "parent_id": "field_transport",
+    "description": "日野駅前広場、交通結節点整備、歩行者動線改善などに関する議題。"
+  },
+  {
+    "tag_id": "local_tamabei_redevelopment",
+    "name": "多摩平団地再生",
+    "level": "small",
+    "local": true,
+    "parent_id": "urban_redevelopment",
+    "description": "多摩平団地の建替え、再生、公共施設複合化などに関する議題。"
+  },
+  {
+    "tag_id": "local_asakawa_flood",
+    "name": "浅川氾濫対策",
+    "level": "small",
+    "local": true,
+    "parent_id": "disaster_flood",
+    "description": "浅川流域の氾濫・浸水対策、護岸整備などに関する議題。"
+  },
+  {
+    "tag_id": "local_tamagawa_flood",
+    "name": "多摩川浸水対策",
+    "level": "small",
+    "local": true,
+    "parent_id": "disaster_flood",
+    "description": "多摩川流域の浸水対策、堤防強化、避難計画などに関する議題。"
+  },
+  {
+    "tag_id": "local_nanao_school_merge",
+    "name": "七生地区学校統廃合",
+    "level": "small",
+    "local": true,
+    "parent_id": "edu_facilities",
+    "description": "七生地区の小中学校統廃合、施設再編に関する議題。"
+  },
+  {
+    "tag_id": "local_hino_child_center",
+    "name": "子ども家庭支援センター（日野）",
+    "level": "small",
+    "local": true,
+    "parent_id": "welfare_child",
+    "description": "日野市の子ども家庭支援センター運営・機能強化に関する議題。"
+  },
+  {
+    "tag_id": "local_hino_community_bus",
+    "name": "日野市コミュニティバス",
+    "level": "small",
+    "local": true,
+    "parent_id": "transport_bus",
+    "description": "日野市内のコミュニティバス路線、運行改善に関する議題。"
+  },
+  {
+    "tag_id": "local_shinmachi_park",
+    "name": "新町公園整備",
+    "level": "small",
+    "local": true,
+    "parent_id": "env_nature",
+    "description": "新町公園の再整備、遊具更新、緑地保全に関する議題。"
+  },
+  {
+    "tag_id": "local_hino_cityhall_rebuild",
+    "name": "市役所庁舎整備",
+    "level": "small",
+    "local": true,
+    "parent_id": "admin_digital",
+    "description": "市役所庁舎の耐震化、建替え、DX対応に関する議題。"
+  },
+  {
+    "tag_id": "local_hino_sports_center",
+    "name": "市民スポーツセンター整備",
+    "level": "small",
+    "local": true,
+    "parent_id": "field_community",
+    "description": "市民スポーツセンターの改修、設備更新に関する議題。"
+  },
+  {
+    "tag_id": "local_hino_road_20",
+    "name": "国道20号整備（日野区間）",
+    "level": "small",
+    "local": true,
+    "parent_id": "transport_road",
+    "description": "国道20号の日野区間における交通安全、渋滞対策に関する議題。"
+  },
+  {
+    "tag_id": "local_hino_solar",
+    "name": "公共施設の太陽光導入",
+    "level": "small",
+    "local": true,
+    "parent_id": "env_climate",
+    "description": "市内公共施設への太陽光パネル導入、再エネ推進に関する議題。"
+  }
+]

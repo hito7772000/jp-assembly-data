@@ -1,0 +1,21 @@
+﻿{
+  "id": "s001",
+  "name": "令和4年第1回定例会",
+  "date": {
+    "from": "2022-03-01",
+    "to": "2022-03-01"
+  },
+  "type": "regular | special",
+  "roles": [
+    { "member_id": "m001", "role": "chair | vice_chair" }
+  ],
+  "agenda": [
+    { "type": "bill | question | petition | report", "id": "b001" }
+  ],
+  "source": [
+    {
+      "url": "https://www.city.hino.lg.jp/gikai/sessions/2022/1.html",
+      "retrieved_at": "2024-01-10T12:00:00+09:00"
+    }
+  ]
+}

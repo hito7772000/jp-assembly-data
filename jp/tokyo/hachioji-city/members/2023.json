@@ -1,0 +1,464 @@
+{
+  "term": {
+    "start": "2023-05-01",
+    "end": "2027-04-30"
+  },
+  "members": [
+    {
+      "id": "001",
+      "name": "長谷川順子",
+      "party_id": "party_ldp",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_ldp",
+          "from": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "002",
+      "name": "内田由香利",
+      "party_id": "party_ldp",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_ldp",
+          "from": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "005",
+      "name": "美濃部弥生",
+      "party_id": "party_komei",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_komei",
+          "from": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "006",
+      "name": "浜野正太",
+      "party_id": "party_cdp",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_cdp",
+          "from": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "007",
+      "name": "九鬼ともみ",
+      "party_id": "party_cdp",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_cdp",
+          "from": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "008",
+      "name": "綿林夕夏",
+      "party_id": "party_jcp",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_jcp",
+          "from": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "009",
+      "name": "高橋剛",
+      "party_id": "party_independent",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_independent",
+          "from": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "010",
+      "name": "舩木翔平",
+      "party_id": "party_independent",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_independent",
+          "from": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "011",
+      "name": "立川寛之",
+      "party_id": "party_ldp",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_ldp",
+          "from": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "012",
+      "name": "西室真希",
+      "party_id": "party_ldp",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_ldp",
+          "from": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "013",
+      "name": "岸田功典",
+      "party_id": "party_ldp",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_ldp",
+          "from": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "014",
+      "name": "古里幸太郎",
+      "party_id": "party_komei",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_komei",
+          "from": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "015",
+      "name": "森重博正",
+      "party_id": "party_komei",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_komei",
+          "from": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "016",
+      "name": "日下部広志",
+      "party_id": "party_komei",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_komei",
+          "from": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "017",
+      "name": "森喜彦",
+      "party_id": "party_cdp",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_cdp",
+          "from": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "018",
+      "name": "望月翔平",
+      "party_id": "party_jcp",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_jcp",
+          "from": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "019",
+      "name": "玉正彩加",
+      "party_id": "party_independent",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_independent",
+          "from": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "020",
+      "name": "金子亜希子",
+      "party_id": "party_independent",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_independent",
+          "from": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "021",
+      "name": "川村奈緒美",
+      "party_id": "party_ldp",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_ldp",
+          "from": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "022",
+      "name": "岩田祐樹",
+      "party_id": "party_ldp",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_ldp",
+          "from": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "023",
+      "name": "吉本孝良",
+      "party_id": "party_ldp",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_ldp",
+          "from": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "024",
+      "name": "久保井博美",
+      "party_id": "party_komei",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_komei",
+          "from": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "025",
+      "name": "冨永純子",
+      "party_id": "party_komei",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_komei",
+          "from": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "026",
+      "name": "渡口禎",
+      "party_id": "party_komei",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_komei",
+          "from": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "027",
+      "name": "安藤修三",
+      "party_id": "party_cdp",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_cdp",
+          "from": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "028",
+      "name": "市川克宏",
+      "party_id": "party_jcp",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_jcp",
+          "from": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "029",
+      "name": "山本貴士",
+      "party_id": "party_independent",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_independent",
+          "from": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "030",
+      "name": "及川賢一",
+      "party_id": "party_independent",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_independent",
+          "from": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "031",
+      "name": "鈴木玲央",
+      "party_id": "party_ldp",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_ldp",
+          "from": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "032",
+      "name": "福安徹",
+      "party_id": "party_ldp",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_ldp",
+          "from": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "033",
+      "name": "小林秀司",
+      "party_id": "party_ldp",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_ldp",
+          "from": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "034",
+      "name": "中島正寿",
+      "party_id": "party_komei",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_komei",
+          "from": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "035",
+      "name": "五間浩",
+      "party_id": "party_komei",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_komei",
+          "from": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "036",
+      "name": "村松徹",
+      "party_id": "party_komei",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_komei",
+          "from": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "037",
+      "name": "小林裕恵",
+      "party_id": "party_cdp",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_cdp",
+          "from": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "038",
+      "name": "石井宏和",
+      "party_id": "party_jcp",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_jcp",
+          "from": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "039",
+      "name": "鈴木勇次",
+      "party_id": "party_jcp",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_jcp",
+          "from": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "040",
+      "name": "星野直美",
+      "party_id": "party_independent",
+      "profile_url": null,
+      "party_history": [
+        {
+          "party_id": "party_independent",
+          "from": "2023-05-01"
+        }
+      ]
+    }
+  ]
+}

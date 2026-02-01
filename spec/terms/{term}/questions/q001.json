@@ -1,0 +1,25 @@
+﻿{
+  "id": "q001",
+  "official_number": "001",
+  "title": "学校給食のアレルギー対応について",
+  "summary_three_lines": [
+    "学校給食におけるアレルギー対応の現状と課題を問う。",
+    "特に除去食の提供体制と緊急時対応の改善を求める。",
+    "市としての改善計画と予算措置について質問する。"
+  ],
+  "questioner": {
+    "type": "member | party",
+    "member_id": "m001",
+    "party_id": null
+  },
+  "tags": [
+    "edu_school_lunch",
+    "field_education"
+  ],
+  "source": [
+    {
+      "url": "https://www.city.hino.lg.jp/gikai/questions/2022/q001.html",
+      "retrieved_at": "2024-01-10T12:00:00+09:00"
+    }
+  ]
+}

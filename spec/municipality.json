@@ -1,0 +1,20 @@
+{
+  "municipality_id": "jp_tokyo_hino_city",
+  "name": "日野市",
+  "enabled_tags": {
+    "age": [
+      "age_student",
+      "age_working",
+      "age_senior"
+    ],
+    "field": [
+      "field_childcare",
+      "field_education",
+      "field_welfare",
+      "field_transport",
+      "field_disaster",
+      "field_environment",
+      "field_community"
+    ]
+  }
+}

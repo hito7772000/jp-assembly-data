@@ -1,0 +1,72 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Vote",
+  "type": "object",
+  "required": ["id", "bill_id", "date", "result", "counts"],
+  "properties": {
+    "id": { "type": "string" },
+    "bill_id": { "type": "string" },
+    "session_id": { "type": ["string", "null"] },
+    "date": { "type": "string", "format": "date" },
+    "result": { "type": "string" },
+
+    "counts": {
+      "type": "object",
+      "properties": {
+        "yes": { "type": "integer" },
+        "no": { "type": "integer" },
+        "abstain": { "type": "integer" },
+        "absent": { "type": "integer" }
+      }
+    },
+
+    "votes": {
+      "type": "object",
+      "properties": {
+        "members": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["member_id", "vote"],
+            "properties": {
+              "member_id": { "type": "string" },
+              "vote": { "type": "string" }
+            }
+          }
+        },
+        "parties": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["party_id", "vote"],
+            "properties": {
+              "party_id": { "type": "string" },
+              "vote": { "type": "string" },
+              "details": {
+                "type": ["object", "null"],
+                "properties": {
+                  "yes_count": { "type": "integer" },
+                  "no_count": { "type": "integer" },
+                  "abstain_count": { "type": "integer" },
+                  "absent_count": { "type": "integer" },
+                  "members": { "type": ["array", "null"] }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+
+    "roles": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "member_id": { "type": "string" },
+          "role": { "type": "string" }
+        }
+      }
+    }
+  }
+}

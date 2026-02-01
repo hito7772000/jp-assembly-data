@@ -1,0 +1,65 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Scores",
+  "type": "object",
+  "required": ["member_id", "attendance", "questions", "votes"],
+  "properties": {
+    "member_id": { "type": "string" },
+
+    "attendance": {
+      "type": "object",
+      "properties": {
+        "regular_sessions": {
+          "type": "object",
+          "properties": {
+            "attended": { "type": "integer" },
+            "absent": { "type": "integer" }
+          }
+        },
+        "special_sessions": {
+          "type": "object",
+          "properties": {
+            "attended": { "type": "integer" },
+            "absent": { "type": "integer" }
+          }
+        },
+        "committees": {
+          "type": "object",
+          "properties": {
+            "attended": { "type": "integer" },
+            "absent": { "type": "integer" }
+          }
+        }
+      }
+    },
+
+    "questions": {
+      "type": "object",
+      "properties": {
+        "general": { "type": "integer" },
+        "representative": { "type": "integer" }
+      }
+    },
+
+    "votes": {
+      "type": "object",
+      "properties": {
+        "yes": { "type": "integer" },
+        "no": { "type": "integer" },
+        "abstain": { "type": "integer" },
+        "absent": { "type": "integer" }
+      }
+    },
+
+    "source": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "url": { "type": "string", "format": "uri" },
+          "retrieved_at": { "type": "string", "format": "date-time" }
+        }
+      }
+    }
+  }
+}

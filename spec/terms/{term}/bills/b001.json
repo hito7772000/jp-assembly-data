@@ -1,0 +1,20 @@
+{
+  "id": "b001",
+  "official_number": "001",
+  "title": "市立保育園の定員増に関する条例改正",
+  "summary_three_lines": [
+    "市立保育園の定員を増やすための条例改正案。",
+    "待機児童解消を目的とし、2024年度から施行。",
+    "財源は一般会計から確保する。"
+  ],
+  "proposer": {
+    "type": "executive | assembly_member | committee",
+    "member_id": "m001"
+  },
+  "source": [
+    {
+      "url": "https://www.city.hino.lg.jp/.../bill_2022_001.pdf",
+      "retrieved_at": "2024-01-10T12:00:00+09:00"
+    }
+  ]
+}

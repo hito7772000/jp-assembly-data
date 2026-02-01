@@ -1,0 +1,10 @@
+[
+  { "tag_id": "member_field_childcare", "name": "子育て・保育", "description": "子育て政策、保育、学童などに強みがある" },
+  { "tag_id": "member_field_education", "name": "教育", "description": "学校教育、ICT教育、施設整備などに強みがある" },
+  { "tag_id": "member_field_welfare", "name": "福祉", "description": "高齢者福祉、障害福祉、医療体制などに強みがある" },
+  { "tag_id": "member_field_transport", "name": "交通", "description": "道路、鉄道、バス、自転車などの交通政策に強みがある" },
+  { "tag_id": "member_field_disaster", "name": "防災", "description": "水害、地震、消防、防犯などに強みがある" },
+  { "tag_id": "member_field_tax", "name": "税金・財政", "description": "税制、財政運営、予算に強みがある" },
+  { "tag_id": "member_field_environment", "name": "環境", "description": "気候変動、自然保全、リサイクルなどに強みがある" },
+  { "tag_id": "member_field_community", "name": "地域・コミュニティ", "description": "地域活動、自治会、地域施設などに強みがある" }
+]

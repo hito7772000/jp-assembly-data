@@ -1,218 +1,212 @@
-﻿# 議会オープンデータ (Assembly Open Data)
+﻿# Japan Civic Data Standard (JCDS)
 
-このディレクトリは自治体の議会データを JSON 化した出力先です。
+日本の自治体議会データを、全国共通の形式で整理・公開するためのデータ標準です。  
+議員・会派・議案・採決・質問・委員会・出席・タグ分類など、  
+自治体ごとにバラバラな情報を **ミニマルで統一的な JSON 形式** に整理します。
 
-## ディレクトリ構成
+本標準は以下の原則に基づいて設計されています：
+
+- **ミニマル**：必要最小限の項目のみを定義し、冗長性を排除する
+- **全国統一**：自治体差を吸収し、どこでも同じ構造で扱える
+- **透明性**：市民が理解しやすく、検証可能な構造
+- **拡張性**：自治体固有の情報は optional として柔軟に追加可能
+- **時系列整合性**：任期・所属・役職などは from/to で管理
+
+---
+
+## 📂 ディレクトリ構成
+
 ```
-spec/terms/<term>/
-  members/index.json
-  members/<member_id>.json
-  members/attachments/<member_id>.json
-  parties/parties.json
-  parties/membership/<member_id>.json
-  committees/committees.json
-  committees/membership/<member_id>.json
-  committees/attachments/<committee_id>.json
-  sessions/sessions.json
-  sessions/attachments/<session_id>.json
-  bills/<bill_id>.json
-  bills/attachments/<bill_id>.json
-  bills/summary/<bill_id>.json
-  bills/classification/<bill_id>.json
-  questions/<member_id>.json
-  questions/attachments/<member_id>.json
-  scores/<member_id>.json
-  scores/attendance/<member_id>.json
-  votes/<bill_id>.json
-  votes/attachments/<bill_id>.json
+spec/
+  municipalitys.json
+  terms/
+    {term}/
+      members/
+      parties/
+      committees/
+      bills/
+      votes/
+      questions/
+      scores/
+  tags/
+    member_tags.json
+    party_tags.json
+    bill_tags.json
+    local/
+      hino.json
 ```
 
-## JSON 項目
+---
 
-### members/index.json
-- `members[]`: 議員一覧
-  - `id`: 議員 ID
-  - `name`: 氏名
-  - `official_number`: 議員番号
-  - `joined`: 就任日
-  - `resigned`: 退任日 (在任中は null)
-  - `party_id`: 会派 ID
+## 🧑‍💼 members（議員）
 
-### members/<member_id>.json
-- `id`: 議員 ID
-- `name`: 氏名
-- `official_number`: 議員番号
-- `joined`: 就任日
-- `resigned`: 退任日 (在任中は null)
-- `profile_url`: プロフィール URL
-- `party_history[]`: 会派履歴
-  - `id`: 会派 ID
-  - `from`: 開始日
-  - `to`: 終了日 (在任中は null)
+議員の基本情報と、  
+**会派所属（party_history）＋役職（roles）** を一元管理します。
 
-### members/attachments/<member_id>.json
-- `member_id`: 議員 ID
-- `attachments[]`: 添付資料
-  - `id`: 添付 ID
-  - `title`: タイトル
-  - `url`: URL
-  - `type`: 種別 (pdf など)
-  - `pages`: ページ数
-  - `source`: 出典
-  - `notes`: 補足
+```json
+{
+  "id": "m001",
+  "official_number": "001",
+  "name": "山田太郎",
+  "joined": "2022-04-01",
+  "resigned": "2024-06-30",
+  "profile_url": "https://...",
+  "party_history": [
+    {
+      "party_id": "p001",
+      "from": "2022-04-01",
+      "to": "2024-06-30",
+      "roles": [
+        { "role": "leader", "from": "2023-04-01", "to": "2024-03-31" }
+      ]
+    }
+  ],
+  "tags": ["field_transport", "field_childcare"],
+  "source": [...]
+}
+```
 
-### parties/parties.json
-- `parties[]`: 会派一覧
-  - `id`: 会派 ID
-  - `name`: 会派名
-  - `notes`: 補足
+---
 
-### parties/membership/<member_id>.json
-- `member_id`: 議員 ID
-- `history[]`: 会派所属履歴
-  - `id`: 会派 ID
-  - `role`: 役割
-  - `from`: 開始日
-  - `to`: 終了日 (在任中は null)
+## 🏛 parties（会派）
 
-### committees/committees.json
-- `committees[]`: 委員会一覧
-  - `id`: 委員会 ID
-  - `name`: 委員会名
-  - `type`: 種別 (standing など)
+会派の属性のみを保持します。  
+所属議員は member 側で管理します。
 
-### committees/membership/<member_id>.json
-- `member_id`: 議員 ID
-- `history[]`: 委員会所属履歴
-  - `id`: 委員会 ID
-  - `role`: 役割
-  - `from`: 開始日
-  - `to`: 終了日 (在任中は null)
+```json
+{
+  "id": "p001",
+  "name": "市民クラブ",
+  "tags": ["ideology_civic"],
+  "source": [...]
+}
+```
 
-### committees/attachments/<committee_id>.json
-- `committee_id`: 委員会 ID
-- `attachments[]`: 添付資料
-  - `id`: 添付 ID
-  - `title`: タイトル
-  - `url`: URL
-  - `type`: 種別
-  - `pages`: ページ数
-  - `source`: 出典
-  - `notes`: 補足
+---
 
-### sessions/sessions.json
-- `sessions[]`: 会期一覧
-  - `id`: 会期 ID
-  - `name`: 会期名
-  - `start`: 開会日
-  - `end`: 閉会日
-  - `type`: `regular` / `extraordinary`
-  - `notes`: 補足
+## 📑 bills（議案）
 
-### sessions/attachments/<session_id>.json
-- `session_id`: 会期 ID
-- `attachments[]`: 添付資料
-  - `id`: 添付 ID
-  - `title`: タイトル
-  - `url`: URL
-  - `type`: 種別
-  - `pages`: ページ数
-  - `source`: 出典
-  - `notes`: 補足
+議案の基本情報とタグ分類。
 
-### bills/<bill_id>.json
-- `id`: 議案 ID
-- `title`: 議案名
-- `type`: 区分 (ordinance など)
-- `proposer`: 提案者 (`mayor` など)
-- `session_id`: 会期 ID
-- `dates.submitted`: 提出日
-- `dates.decided`: 議決日
-- `documents.original_url`: 原文 URL
-- `documents.attachments[]`: 添付資料 (あれば)
+```json
+{
+  "id": "b001",
+  "title": "令和5年度一般会計予算",
+  "tags": ["budget_general", "local_hino_station"],
+  "source": [...]
+}
+```
 
-### bills/attachments/<bill_id>.json
-- `bill_id`: 議案 ID
-- `attachments[]`: 添付資料
-  - `id`: 添付 ID
-  - `title`: タイトル
-  - `url`: URL
-  - `type`: 種別
-  - `pages`: ページ数
-  - `notes`: 補足
+---
 
-### bills/summary/<bill_id>.json
-- `bill_id`: 議案 ID
-- `three_lines[]`: 3行要約
-- `full`: 詳細要約
+## 🗳 votes（採決）
 
-### bills/classification/<bill_id>.json
-- `bill_id`: 議案 ID
-- `categories[]`: 分類
-- `tags[]`: タグ
-- `policy_area`: 政策分野
-- `importance`: 重要度
-- `notes`: 補足
+議員ごとの投票、会派ごとの投票、結果、票数を記録します。
 
-### questions/<member_id>.json
-- `member_id`: 議員 ID
-- `items[]`: 質問一覧
-  - `id`: 質問 ID
-  - `date`: 質問日
-  - `theme`: テーマ
-  - `summary`: 要約
+```json
+{
+  "id": "v001",
+  "bill_id": "b001",
+  "session_id": "s001",
+  "date": "2023-03-15",
+  "result": "passed",
+  "counts": { "yes": 1, "no": 1, "abstain": 0, "absent": 0 },
+  "votes": {
+    "members": [
+      { "member_id": "m001", "vote": "yes" }
+    ],
+    "parties": [
+      {
+        "party_id": "p002",
+        "vote": "split",
+        "details": {
+          "yes_count": 2,
+          "no_count": 1,
+          "abstain_count": 0,
+          "absent_count": 0,
+          "members": null
+        }
+      }
+    ]
+  },
+  "roles": [
+    { "member_id": "m010", "role": "chair" }
+  ]
+}
+```
 
-### questions/attachments/<member_id>.json
-- `member_id`: 議員 ID
-- `attachments[]`: 添付資料
-  - `id`: 添付 ID
-  - `title`: タイトル
-  - `url`: URL
-  - `type`: 種別
-  - `pages`: ページ数
-  - `source`: 出典
-  - `notes`: 補足
+---
 
-### scores/<member_id>.json
-- `member_id`: 議員 ID
-- `activity`: 活動スコア
-- `attendance`: 出席スコア
-- `questions`: 質問数
-- `vote_participation`: 採決参加率
+## ❓ questions（質問）
 
-### scores/attendance/<member_id>.json
-- `member_id`: 議員 ID
-- `rate`: 出席率
-- `records[]`: 出欠記録
-  - `date`: 日付
-  - `status`: `present` / `absent`
+一般質問・代表質問など。
 
-### votes/<bill_id>.json
-- `bill_id`: 議案 ID
-- `session_id`: 会期 ID
-- `date`: 議決日
-- `result`: 議決結果
-- `counts.yes`: 賛成数
-- `counts.no`: 反対数
-- `counts.abstain`: 棄権数
-- `counts.absent`: 欠席数
-- `votes[]`: 議員別投票
-  - `member_id`: 議員 ID
-  - `vote`: `yes` / `no` / `abstain` / `absent`
+```json
+{
+  "id": "q001",
+  "member_id": "m001",
+  "session_id": "s001",
+  "type": "general",
+  "title": "子育て支援について",
+  "tags": ["welfare_child"],
+  "source": [...]
+}
+```
 
-### votes/attachments/<bill_id>.json
-- `bill_id`: 議案 ID
-- `attachments[]`: 添付資料
-  - `id`: 添付 ID
-  - `title`: タイトル
-  - `url`: URL
-  - `type`: 種別
-  - `pages`: ページ数
-  - `source`: 出典
-  - `notes`: 補足
+---
 
-## データのポイント
-- `members/index.json` の `id` が各 JSON の `member_id` と対応します。
-- `committees/attachments/<committee_id>.json` は委員会 ID と一致します。
-- `sessions/attachments/<session_id>.json` は会期 ID と一致します。
-- `bills/*/<bill_id>.json` は議案 ID と一致します。
+## 🧮 scores（議員ごとの活動指標）
+
+任期ごとに集計した出席・質問・投票のサマリー。
+
+```json
+{
+  "member_id": "m001",
+  "attendance": {
+    "regular_sessions": { "attended": 12, "absent": 1 },
+    "special_sessions": { "attended": 3, "absent": 0 },
+    "committees": { "attended": 24, "absent": 2 }
+  },
+  "questions": { "general": 5, "representative": 1 },
+  "votes": { "yes": 32, "no": 4, "abstain": 1, "absent": 3 },
+  "source": [...]
+}
+```
+
+---
+
+## 🏷 tags（分類体系）
+
+### 全国共通タグ
+- `member_tags.json`（議員の専門分野タグ）
+- `party_tags.json`（会派の思想タグ）
+- `bill_tags.json`（議案・質問の分類タグ）
+
+### 自治体固有タグ
+```
+spec/tags/local/bill_tags.json
+spec/tags/local/party_tags.json
+spec/tags/local/member_tags.json
+```
+
+---
+
+## 📐 設計思想
+
+- **冗長性ゼロ**  
+  同じ情報を複数箇所に持たない
+
+- **関係性は member 側に集約**  
+  所属・役職・時系列は member.party_history に統合
+
+- **自治体差は optional で吸収**  
+  local タグ、scores の optional 項目など
+
+- **全国展開に耐えるスケール性**  
+  ファイルは細かく分割し、巨大ファイルを避ける
+
+---
+
+## 📄 ライセンス
+
+Apache License Version 2.0

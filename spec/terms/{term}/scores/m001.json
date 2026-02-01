@@ -1,0 +1,47 @@
+{
+  "member_id": "m001",
+
+  "attendance": {
+    "regular_sessions": { "attended": 12, "absent": 1 },
+    "special_sessions": { "attended": 3, "absent": 0 },
+    "committees": { "attended": 24, "absent": 2 }
+  },
+
+  "questions": {
+    "general": 5,
+    "representative": 1
+  },
+
+  "votes": {
+    "yes": 32,
+    "no": 4,
+    "abstain": 1,
+    "absent": 3
+  },
+
+  "committee_activity": {
+    "speeches": 12
+  },
+
+  "motions": {
+    "submitted": 3
+  },
+
+  "interpellations": 8,
+
+  "petitions": {
+    "introduced": 4
+  },
+
+  "committee_positions": {
+    "chair": 1,
+    "vice_chair": 0
+  },
+
+  "source": [
+    {
+      "url": "https://www.city.hino.lg.jp/gikai/records/2022-2026/m001.html",
+      "retrieved_at": "2024-01-10T12:00:00+09:00"
+    }
+  ]
+}

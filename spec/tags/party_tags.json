@@ -1,0 +1,8 @@
+[
+  { "tag_id": "ideology_civic", "name": "市民派", "description": "市民参加・透明性を重視する会派" },
+  { "tag_id": "ideology_conservative", "name": "保守", "description": "伝統的価値観や安定を重視する会派" },
+  { "tag_id": "ideology_reform", "name": "改革派", "description": "行政改革や効率化を重視する会派" },
+  { "tag_id": "ideology_environment", "name": "環境重視", "description": "環境政策や持続可能性を重視する会派" },
+  { "tag_id": "ideology_welfare", "name": "福祉重視", "description": "福祉政策や社会保障を重視する会派" },
+  { "tag_id": "ideology_balanced", "name": "中道", "description": "特定の思想に偏らずバランスを重視する会派" }
+]

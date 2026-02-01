@@ -1,0 +1,31 @@
+﻿{
+  "id": "v001",
+  "bill_id": "b001",
+  "session_id": "s001",
+  "date": "2023-03-15",
+  "result": "passed",
+  "counts": {
+    "yes": 1,
+    "no": 1,
+    "abstain": 0,
+    "absent": 0
+  },
+  "votes": {
+    "members | parties": [
+      { "member_id": "m001", "vote": "yes" },
+      { "party_id": "p002", "vote": "split",
+        "details": {
+          "yes_count": 2,
+          "no_count": 1,
+          "abstain_count": 0,
+          "absent_count": 0,
+          "members": null
+        }
+      }
+    ]
+  },
+
+  "roles": [
+    { "member_id": "m010", "role": "chair" }
+  ]
+}

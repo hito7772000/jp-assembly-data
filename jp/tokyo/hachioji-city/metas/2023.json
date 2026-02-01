@@ -1,0 +1,37 @@
+{
+  "assembly_name": "八王子市議会",
+  "assembly_type": "city",
+  "term_start": "2023-05-01",
+  "term_end": "2027-04-30",
+  "seats": 40,
+  "parties": [
+    {
+      "id": "party_ldp",
+      "name": "自民党新政会",
+      "seats": 11
+    },
+    {
+      "id": "party_komei",
+      "name": "八王子市議会公明党",
+      "seats": 10
+    },
+    {
+      "id": "party_cdp",
+      "name": "立憲民主・市民の会",
+      "seats": 5
+    },
+    {
+      "id": "party_jcp",
+      "name": "日本共産党八王子市議会議員団",
+      "seats": 5
+    },
+    {
+      "id": "party_independent",
+      "name": "諸派（会派に所属しない議員）",
+      "seats": 7
+    }
+  ],
+  "sources": {
+    "members_pdf": "https://www.city.hachioji.tokyo.jp/contents/shigikai_1/giin/kakushu/p010627_d/fil/ginmeibo.pdf"
+  }
+}

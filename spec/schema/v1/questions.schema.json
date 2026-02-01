@@ -1,0 +1,27 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Question",
+  "type": "object",
+  "required": ["id", "member_id", "type", "title"],
+  "properties": {
+    "id": { "type": "string" },
+    "member_id": { "type": "string" },
+    "session_id": { "type": ["string", "null"] },
+    "type": { "type": "string" },
+    "title": { "type": "string" },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "source": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "url": { "type": "string", "format": "uri" },
+          "retrieved_at": { "type": "string", "format": "date-time" }
+        }
+      }
+    }
+  }
+}

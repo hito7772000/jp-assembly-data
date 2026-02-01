@@ -1,0 +1,180 @@
+{
+  "session_id": "2023-regular-03",
+  "source_url": "https://www.city.hachioji.tokyo.dbsr.jp/401115?Template=document&Id=5749#one",
+  "session_metadata": {
+    "start_date": "2023-09-04",
+    "end_date": "2023-10-11"
+  },
+  "general_questions": [
+    {
+      "question_id": "gq_001",
+      "member_id": "010",
+      "question_date": "2023-09-07"
+    },
+    {
+      "question_id": "gq_002",
+      "member_id": "010",
+      "question_date": "2023-09-07"
+    },
+    {
+      "question_id": "gq_003",
+      "member_id": "029",
+      "question_date": "2023-09-06"
+    },
+    {
+      "question_id": "gq_004",
+      "member_id": "029",
+      "question_date": "2023-09-06"
+    },
+    {
+      "question_id": "gq_005",
+      "member_id": "040",
+      "question_date": "2023-09-05"
+    },
+    {
+      "question_id": "gq_006",
+      "member_id": "040",
+      "question_date": "2023-09-05"
+    },
+    {
+      "question_id": "gq_007",
+      "member_id": "032",
+      "question_date": "2023-09-04"
+    },
+    {
+      "question_id": "gq_008",
+      "member_id": "032",
+      "question_date": "2023-09-04"
+    },
+    {
+      "question_id": "gq_009",
+      "member_id": "032",
+      "question_date": "2023-09-04"
+    },
+    {
+      "question_id": "gq_010",
+      "member_id": "036",
+      "question_date": "2023-09-04"
+    },
+    {
+      "question_id": "gq_011",
+      "member_id": "033",
+      "question_date": "2023-09-04"
+    },
+    {
+      "question_id": "gq_012",
+      "member_id": "028",
+      "question_date": "2023-09-04"
+    },
+    {
+      "question_id": "gq_013",
+      "member_id": "017",
+      "question_date": "2023-09-04"
+    },
+    {
+      "question_id": "gq_014",
+      "member_id": "001",
+      "question_date": "2023-09-04"
+    },
+    {
+      "question_id": "gq_015",
+      "member_id": "035",
+      "question_date": "2023-09-05"
+    },
+    {
+      "question_id": "gq_016",
+      "member_id": "013",
+      "question_date": "2023-09-05"
+    },
+    {
+      "question_id": "gq_017",
+      "member_id": "009",
+      "question_date": "2023-09-05"
+    },
+    {
+      "question_id": "gq_018",
+      "member_id": "008",
+      "question_date": "2023-09-05"
+    },
+    {
+      "question_id": "gq_019",
+      "member_id": "026",
+      "question_date": "2023-09-05"
+    },
+    {
+      "question_id": "gq_020",
+      "member_id": "011",
+      "question_date": "2023-09-05"
+    },
+    {
+      "question_id": "gq_021",
+      "member_id": "002",
+      "question_date": "2023-09-06"
+    },
+    {
+      "question_id": "gq_022",
+      "member_id": "020",
+      "question_date": "2023-09-06"
+    },
+    {
+      "question_id": "gq_023",
+      "member_id": "024",
+      "question_date": "2023-09-06"
+    },
+    {
+      "question_id": "gq_024",
+      "member_id": "023",
+      "question_date": "2023-09-06"
+    },
+    {
+      "question_id": "gq_025",
+      "member_id": "038",
+      "question_date": "2023-09-06"
+    },
+    {
+      "question_id": "gq_026",
+      "member_id": "014",
+      "question_date": "2023-09-06"
+    },
+    {
+      "question_id": "gq_027",
+      "member_id": "012",
+      "question_date": "2023-09-06"
+    },
+    {
+      "question_id": "gq_028",
+      "member_id": "021",
+      "question_date": "2023-09-07"
+    },
+    {
+      "question_id": "gq_029",
+      "member_id": "030",
+      "question_date": "2023-09-07"
+    },
+    {
+      "question_id": "gq_030",
+      "member_id": "025",
+      "question_date": "2023-09-07"
+    },
+    {
+      "question_id": "gq_031",
+      "member_id": "016",
+      "question_date": "2023-09-07"
+    },
+    {
+      "question_id": "gq_032",
+      "member_id": "019",
+      "question_date": "2023-09-07"
+    },
+    {
+      "question_id": "gq_033",
+      "member_id": "015",
+      "question_date": "2023-09-07"
+    },
+    {
+      "question_id": "gq_034",
+      "member_id": "006",
+      "question_date": "2023-09-07"
+    }
+  ]
+}

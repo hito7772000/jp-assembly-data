@@ -1,0 +1,35 @@
+﻿{
+  "id": "m001",
+  "official_number": "001",
+  "name": "山田太郎",
+  "joined": "2022-04-01",
+  "resigned": "2024-06-30",
+  "profile_url": "https://...",
+  "party_history": [
+    {
+      "party_id": "p001",
+      "from": "2022-04-01",
+      "to": "2024-06-30",
+      "roles": [
+        { "role": "leader", "from": "2023-04-01", "to": "2024-03-31" },
+        { "role": "policy_chief", "from": "2024-04-01", "to": "2024-06-30" }
+      ]
+    },
+    {
+      "party_id": "p002",
+      "from": "2024-07-01",
+      "to": null,
+      "roles": []
+    }
+  ],
+  "tags": [
+    "field_transport",
+    "field_childcare"
+  ],
+  "source": [
+    {
+      "url": "https://www.city.hino.lg.jp/gikai/members/yamada.html",
+      "retrieved_at": "2024-01-10T12:00:00+09:00"
+    }
+  ]
+}

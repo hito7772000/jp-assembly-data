@@ -1,40 +1,116 @@
-﻿# Japan Civic Data Standard (JCDS)
+﻿# jp-assembly-data
+**Japan Assembly Data Format (JAD Format)**  
+正規化された自治体議会データの JSON 形式
 
-日本の自治体議会データを、全国共通の形式で整理・公開するためのデータ標準です。  
-議員・会派・議案・採決・質問・委員会・出席・タグ分類など、  
-自治体ごとにバラバラな情報を **ミニマルで統一的な JSON 形式** に整理します。
+jp-assembly-data は、**jp-assembly プロジェクト**の中核をなす  
+「自治体議会データの正規化フォーマット（JAD Format）」を定義・格納するリポジトリです。
 
-本標準は以下の原則に基づいて設計されています：
+議員・会派・議案・採決・質問・委員会・会期・活動指標など、  
+自治体ごとに形式が異なる議会データを **統一された JSON 形式** に整理します。
 
-- **ミニマル**：必要最小限の項目のみを定義し、冗長性を排除する
-- **全国統一**：自治体差を吸収し、どこでも同じ構造で扱える
-- **透明性**：市民が理解しやすく、検証可能な構造
-- **拡張性**：自治体固有の情報は optional として柔軟に追加可能
-- **時系列整合性**：任期・所属・役職などは from/to で管理
+本フォーマットは以下の原則に基づいて設計されています：
+
+- **冗長性ゼロ**：同じ情報を複数箇所に持たない
+- **全国統一**：どの自治体でも同じ構造で扱える
+- **透明性**：市民が理解しやすく、検証可能
+- **拡張性**：自治体固有情報は optional として吸収
+- **時系列整合性**：任期・所属・役職は from/to で管理
+- **スケール性**：全国展開に耐えるディレクトリ構造
 
 ---
 
-## 📂 ディレクトリ構成
+## 📂 ディレクトリ構造（Directory Structure）
 
 ```
 spec/
-  municipalitys.json
-  terms/
-    {term}/
-      members/
-      parties/
-      committees/
-      bills/
-      votes/
-      questions/
-      scores/
-  tags/
-    member_tags.json
-    party_tags.json
-    bill_tags.json
-    local/
-      hino.json
+│  municipality.json        # 自治体メタデータ（自治体名・タグ など）
+│
+├─schema/
+│  └─v1/                    # JAD Schema v1（JSON Schema）
+│      bills.schema.json
+│      members.schema.json
+│      parties.schema.json
+│      questions.schema.json
+│      scores.schema.json
+│      tags.schema.json
+│      votes.schema.json
+│
+├─tags/                     # 全国共通の分類体系（タグ）
+│  bill_tags.json           # 議案・質問の分類（大項目・中項目・全国共通 small・対象者）
+│  member_tags.json         # 議員の専門分野（議員専用タグ）
+│  party_tags.json          # 会派の思想・スタンス
+│
+│  └─local/                 # 自治体固有 small タグ
+│      hino.json            # 例：日野市の固有議題タグ
+│
+└─terms/                    # 任期ごとの実データ（スナップショット）
+    └─{term}/               # 例：2022-2025
+        bills/              # 議案データ
+        committees/         # 委員会データ
+        members/            # 議員データ（party_history を含む）
+        parties/            # 会派データ（構成は members 側で管理）
+        questions/          # 一般質問・代表質問
+        scores/             # 議員ごとの活動指標（出席・質問・投票）
+        sessions/           # 会期情報
+        votes/              # 採決データ
 ```
+
+---
+
+## 🏷 タグ体系（Tags）
+
+JAD Format のタグ体系は、用途ごとに明確に分離されています。  
+冗長性を避け、全国展開に耐える構造です。
+
+```
+spec/tags/
+  bill_tags.json        # 議案・質問の分類（大項目・中項目・全国共通 small・対象者）
+  member_tags.json      # 議員の専門分野（議員専用タグ）
+  party_tags.json       # 会派の思想・スタンス
+  local/
+    hino.json           # 自治体固有 small タグ
+```
+
+---
+
+### 1. bill_tags.json（議案・質問の分類）
+
+議案・質問・委員会議題に付与する全国共通の分類タグ。
+
+- **age**（対象者：学生・子育て世代・高齢者…）
+- **field**（大項目：子育て・教育・交通…）
+- **medium**（中項目：保育園・道路整備・ICT教育…）
+- **small**（全国共通の小分類）
+
+自治体固有 small は `spec/tags/local/` に格納。
+
+---
+
+### 2. member_tags.json（議員の専門分野）
+
+議員の専門性を示すタグ。  
+議案分類（field_xxx）とは別軸で、冗長性を避けるため独立。
+
+例：
+- member_field_childcare
+- member_field_education
+
+---
+
+### 3. party_tags.json（会派の思想）
+
+会派の政治的スタンスを示す全国共通タグ。
+
+例：
+- ideology_civic
+- ideology_conservative
+
+---
+
+### 4. local/（自治体固有 small）
+
+自治体ごとの固有議題（駅前整備・公園再整備など）は  
+`spec/tags/local/{municipality}.json` に格納。
 
 ---
 
@@ -49,19 +125,19 @@ spec/
   "official_number": "001",
   "name": "山田太郎",
   "joined": "2022-04-01",
-  "resigned": "2024-06-30",
+  "resigned": null,
   "profile_url": "https://...",
   "party_history": [
     {
       "party_id": "p001",
       "from": "2022-04-01",
-      "to": "2024-06-30",
+      "to": null,
       "roles": [
         { "role": "leader", "from": "2023-04-01", "to": "2024-03-31" }
       ]
     }
   ],
-  "tags": ["field_transport", "field_childcare"],
+  "tags": ["member_field_childcare"],
   "source": [...]
 }
 ```
@@ -92,7 +168,7 @@ spec/
 {
   "id": "b001",
   "title": "令和5年度一般会計予算",
-  "tags": ["budget_general", "local_hino_station"],
+  "tags": ["field_tax", "tax_resident"],
   "source": [...]
 }
 ```
@@ -148,7 +224,7 @@ spec/
   "session_id": "s001",
   "type": "general",
   "title": "子育て支援について",
-  "tags": ["welfare_child"],
+  "tags": ["childcare_support"],
   "source": [...]
 }
 ```
@@ -175,38 +251,16 @@ spec/
 
 ---
 
-## 🏷 tags（分類体系）
-
-### 全国共通タグ
-- `member_tags.json`（議員の専門分野タグ）
-- `party_tags.json`（会派の思想タグ）
-- `bill_tags.json`（議案・質問の分類タグ）
-
-### 自治体固有タグ
-```
-spec/tags/local/bill_tags.json
-spec/tags/local/party_tags.json
-spec/tags/local/member_tags.json
-```
-
----
-
 ## 📐 設計思想
 
-- **冗長性ゼロ**  
-  同じ情報を複数箇所に持たない
-
-- **関係性は member 側に集約**  
-  所属・役職・時系列は member.party_history に統合
-
-- **自治体差は optional で吸収**  
-  local タグ、scores の optional 項目など
-
-- **全国展開に耐えるスケール性**  
-  ファイルは細かく分割し、巨大ファイルを避ける
+- **冗長性ゼロ**
+- **関係性は member 側に集約**
+- **自治体差は optional で吸収**
+- **全国展開に耐えるスケール性**
 
 ---
 
 ## 📄 ライセンス
 
 Apache License Version 2.0
+
